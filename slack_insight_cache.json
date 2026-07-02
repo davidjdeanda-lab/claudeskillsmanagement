@@ -1,0 +1,2401 @@
+{
+  "last_updated": "2026-05-06T04:50:14.698020Z",
+  "companies": {
+    "Agave": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend-leaning engineers with AI/LLM systems experience",
+          "End-to-end ML platform building (finetuning, eval, serving infrastructure)",
+          "Agentic AI and workflow automation systems",
+          "Cloud infrastructure expertise (AWS, GCP, Kubernetes)",
+          "Full-stack capabilities with deployment/customer-facing ownership"
+        ],
+        "accepted_backgrounds": [
+          "Recent top-tier university graduates (UWaterloo '25 caliber)",
+          "Engineers with 4+ relevant internships before graduation",
+          "Ownership of end-to-end customer deployments",
+          "Research/open-source contributions demonstrating technical curiosity",
+          "International candidates with appropriate work authorization (TN visa acceptable, F-1 STEM OPT with 2 years remaining acceptable)"
+        ],
+        "rejected_traits": [
+          "Too senior (5+ years experience) \u2014 Darwin Lo, Cameron Kidman, Damon Hastings all rejected for this",
+          "Lack of startup experience \u2014 consistently cited; Microsoft/Amazon/Mercury backgrounds rejected",
+          "Frontend-focused roles without backend depth",
+          "Non-CS undergraduate degrees (Civil Engineering undergrad rejected)",
+          "Compensation above $250K+ (comp misalignment)",
+          "Primarily contract/short-term work history",
+          "Remote/hybrid preferences (role requires in-office 5x)",
+          "Agency background with no startup exposure"
+        ]
+      },
+      "other_signals": "Comp range $110-175K (flex to $180K+ for strong AI/ML engineers). Education strictly enforced: top 30 US/Canadian undergrad, CS degree or sufficient coursework required. Strong emphasis on AI/LLM capabilities even though not in original JD. Client (Nicole) is responsive and moves fast on good fits. Competing for candidates with Rilla, Code Health, Altara, Owner.com.",
+      "summary": "Agave wants early-career (0-4 YOE) backend/AI engineers from top CS programs with startup experience. They consistently reject senior engineers (5+ YOE) and big-tech-only candidates. AI/LLM systems experience is the strongest positive signal."
+    },
+    "Amari": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Full-stack engineering with TypeScript/React/Node",
+          "AI/LLM integration and agent building",
+          "0-to-1 product development",
+          "Backend systems with API design",
+          "Developer tooling and platform engineering"
+        ],
+        "accepted_backgrounds": [
+          "Early-stage startup engineers with founding or founding-adjacent experience",
+          "Engineers from high-growth Series A-B companies who scaled product",
+          "Candidates from developer-tools or AI-native companies",
+          "Engineers who shipped independently with minimal oversight"
+        ],
+        "rejected_traits": [
+          "Pure research ML without product delivery",
+          "Large enterprise-only experience with no startup exposure",
+          "Overly specialized without product instinct"
+        ]
+      },
+      "other_signals": "Client is active and moving candidates through quickly. Compensation band in the $180K-$220K range for senior engineers. SF-based or willing to be in-person preferred.",
+      "summary": "Amari is seeking full-stack and AI-capable engineers who have operated in fast-moving startup environments and have hands-on experience building and shipping 0-to-1 products. They strongly favor candidates with founding or early-employee experience at high-growth startups, particularly those working with modern AI/LLM stacks. Large-company-only candidates without startup exposure are generally passed over."
+    },
+    "Ashler": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend engineering with distributed systems",
+          "Full-stack with strong backend lean",
+          "Data pipeline and infrastructure work",
+          "AI/ML integration in production",
+          "Platform and API development"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from well-known Series A-C startups",
+          "Candidates with 3-6 years experience in product-focused engineering roles",
+          "Those with prior experience building scalable backend systems"
+        ],
+        "rejected_traits": [
+          "Junior candidates without relevant domain experience",
+          "Pure frontend engineers",
+          "Research-only ML without production engineering"
+        ]
+      },
+      "other_signals": "Ashler is hiring for backend-heavy roles. Client feedback has been timely and constructive. Compensation in the $190K-$230K range. Remote-friendly with preference for US-based candidates.",
+      "summary": "Ashler wants strong backend and full-stack engineers who can own technical systems end-to-end. They prefer engineers from well-regarded startups with demonstrated ability to build scalable infrastructure, and value candidates who have shipped production AI/ML features. Pure frontend or research-only profiles are not a match."
+    },
+    "Canals": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Full-stack product engineering",
+          "Real-time systems and infrastructure",
+          "AI/ML pipeline integration",
+          "TypeScript/Python engineering",
+          "Developer experience and tooling"
+        ],
+        "accepted_backgrounds": [
+          "Early-stage startup experience (seed to Series B)",
+          "Engineers who have worked cross-functionally with design and product",
+          "Founding engineers or very early employees"
+        ],
+        "rejected_traits": [
+          "Large company engineers without startup mindset",
+          "Overly specialized without product breadth",
+          "Candidates seeking purely remote with no flexibility"
+        ]
+      },
+      "other_signals": "Canals is a newer client with strong hiring urgency. They value scrappy, product-minded engineers. Compensation is competitive for stage. SF-based preferred.",
+      "summary": "Canals is looking for product-minded full-stack engineers with early-stage startup experience who can wear multiple hats. Founding engineers or very early employees at successful startups are the ideal profile. They want people who have shipped real products with small teams and can move fast."
+    },
+    "CopilotKit": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Open-source and developer tooling experience",
+          "React/TypeScript and frontend-heavy full-stack",
+          "AI agent frameworks and LLM orchestration",
+          "Developer experience and SDK design",
+          "Community-driven product building"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from developer tools or open-source ecosystems",
+          "Candidates with AI/agent framework experience",
+          "Those who have contributed to or built open-source projects with real adoption"
+        ],
+        "rejected_traits": [
+          "Backend-only without frontend/DX experience",
+          "Candidates unfamiliar with AI agent concepts",
+          "Those without interest in developer community engagement"
+        ]
+      },
+      "other_signals": "CopilotKit is an open-source AI copilot framework company. They value candidates passionate about developer experience and AI tooling. Strong GitHub presence and open-source contributions are positively viewed.",
+      "summary": "CopilotKit wants engineers deeply passionate about developer tools and AI agent frameworks, ideally with open-source experience or contributions. They value candidates who understand the developer community and can build SDKs and tooling that resonates with engineers. Frontend-capable full-stack with strong TypeScript/React is preferred."
+    },
+    "Decagon": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Full-stack engineering with strong product instincts",
+          "AI/LLM application development",
+          "Backend systems with focus on reliability",
+          "Customer-facing product engineering",
+          "Rapid iteration and shipping velocity"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from top-tier AI-native startups",
+          "Those with experience at high-growth B2B SaaS companies",
+          "Founding or early employees at successful startups"
+        ],
+        "rejected_traits": [
+          "Research-only ML without product focus",
+          "Enterprise-only background without startup agility",
+          "Candidates with low shipping velocity signals"
+        ]
+      },
+      "other_signals": "Decagon is an AI customer support automation company with strong enterprise traction. They move quickly on candidates and expect high caliber. Compensation is strong. SF-based in-office preferred.",
+      "summary": "Decagon seeks high-caliber full-stack engineers who can build reliable AI-powered customer support products at scale. They want engineers from top-tier AI startups or successful high-growth B2B companies who move fast and ship quality products. Research profiles without product delivery track records are not a fit."
+    },
+    "Deeptune": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Audio/speech ML and signal processing",
+          "LLM fine-tuning and RLHF",
+          "Real-time inference and model optimization",
+          "Backend systems for ML serving",
+          "Research engineering with production deployment"
+        ],
+        "accepted_backgrounds": [
+          "Researchers from top audio/speech AI labs",
+          "Engineers with production ML system experience",
+          "Candidates from voice AI startups or audio companies"
+        ],
+        "rejected_traits": [
+          "General ML without audio/speech focus",
+          "Product engineers without research depth",
+          "Candidates unfamiliar with generative audio models"
+        ]
+      },
+      "other_signals": "Deeptune is building audio/voice AI models. They prioritize research depth combined with engineering ability to ship to production. SF in-person preferred.",
+      "summary": "Deeptune wants research engineers with deep audio and speech ML expertise who can also productionize models. They value candidates from top labs or voice AI companies with hands-on experience in generative audio, TTS, or ASR. General ML engineers without specific audio domain knowledge are not a strong fit."
+    },
+    "EliseAI": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Full-stack product engineering",
+          "AI/LLM integration for conversational systems",
+          "Backend systems with strong data modeling",
+          "Workflow automation and integration engineering",
+          "Product-minded engineering with customer impact focus"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from high-growth B2B SaaS companies",
+          "Those with proptech or enterprise software experience",
+          "Candidates who have built customer-facing AI products"
+        ],
+        "rejected_traits": [
+          "Pure research without product engineering",
+          "Frontend-only engineers",
+          "Those with no enterprise or B2B experience"
+        ]
+      },
+      "other_signals": "EliseAI is an AI leasing agent for multifamily housing. Strong B2B SaaS traction. NYC-based with in-person expectations. Compensation competitive for stage.",
+      "summary": "EliseAI is looking for full-stack engineers who can build and iterate on AI-powered leasing and communication workflows for real estate clients. They prefer candidates with B2B SaaS experience and a product mindset. Engineers from similar enterprise or proptech contexts who have built customer-facing AI products are the strongest fit."
+    },
+    "Endeavor": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend engineering with financial systems experience",
+          "AI/ML integration in trading or financial workflows",
+          "Data infrastructure and real-time systems",
+          "Risk and compliance system engineering",
+          "Full-stack with strong backend lean in fintech"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from fintech or trading firms",
+          "Those with experience in regulated industries",
+          "Candidates who have built high-reliability financial software"
+        ],
+        "rejected_traits": [
+          "Engineers without any financial services context",
+          "Junior candidates without domain knowledge",
+          "Pure ML researchers without engineering depth"
+        ]
+      },
+      "other_signals": "Endeavor operates in the financial services space. They value reliability and precision in engineering. Compensation is strong. NYC-based preferred.",
+      "summary": "Endeavor wants engineers with financial systems experience who can build reliable, high-performance backend and data infrastructure. They strongly favor candidates from fintech, trading, or similarly regulated environments who understand the stakes of production financial software."
+    },
+    "Fleet": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Full-stack product engineering with mobile experience",
+          "Backend systems for logistics and operations",
+          "Real-time tracking and geospatial data systems",
+          "Fleet management or IoT software engineering",
+          "API integrations and workflow automation"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from logistics, transportation, or operations tech",
+          "Those who built consumer or SMB-facing products",
+          "Candidates from companies with hardware/software integration experience"
+        ],
+        "rejected_traits": [
+          "Pure software without any operations or logistics context",
+          "Research ML without product shipping",
+          "Engineers without mobile or API experience"
+        ]
+      },
+      "other_signals": "Fleet is building fleet management software for small-to-mid-size businesses. They value pragmatic engineers who can ship features quickly. Compensation competitive. Remote-friendly.",
+      "summary": "Fleet is seeking pragmatic full-stack engineers who can build logistics and operations software. They prefer candidates who have shipped mobile-friendly or operations-centric products and understand real-world constraints of running fleet or field operations businesses."
+    },
+    "Graphite": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Developer tooling and code review infrastructure",
+          "Full-stack with strong frontend or backend for dev tools",
+          "AI/LLM integration into developer workflows",
+          "Git and CI/CD systems expertise",
+          "High-quality software engineering with craftsmanship focus"
+        ],
+        "accepted_backgrounds": [
+          "Engineers who have built or contributed to developer tools",
+          "Those from companies that prioritize engineering excellence",
+          "Candidates who actively use and care about code review quality"
+        ],
+        "rejected_traits": [
+          "Engineers without interest in developer tooling",
+          "Those without product sensibility for developer audiences",
+          "Candidates from slow-moving enterprise environments"
+        ]
+      },
+      "other_signals": "Graphite is a code review and developer productivity tool backed by strong VCs. They value engineers who deeply care about software quality and developer experience. SF-based in-person preferred.",
+      "summary": "Graphite wants engineers who are passionate about developer experience and code quality, and who have experience building tools for engineering teams. They seek candidates who use and think deeply about developer workflows, and can build both frontend and backend components of a developer tooling product."
+    },
+    "Hedra": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Video generation and diffusion model research",
+          "Computer vision and generative AI",
+          "ML infrastructure for video/multimodal models",
+          "Research engineering combining theory and production",
+          "3D reconstruction and rendering for AI avatars"
+        ],
+        "accepted_backgrounds": [
+          "Researchers from top vision AI labs (Google, Meta, Stability AI)",
+          "PhDs in computer vision, graphics, or ML",
+          "Engineers who have built generative video or avatar systems"
+        ],
+        "rejected_traits": [
+          "NLP-only ML without vision expertise",
+          "Product engineers without research depth in generative media",
+          "Candidates without hands-on generative model experience"
+        ]
+      },
+      "other_signals": "Hedra is building AI-generated video and character products. They are research-heavy with a strong team from top labs. SF in-person. Compensation at research lab level ($300K-$500K+ for senior researchers).",
+      "summary": "Hedra wants elite researchers and research engineers specializing in video generation, diffusion models, and generative AI for characters. They target candidates from top AI labs with strong publication records or demonstrated production generative model work. NLP or product engineers without vision/generative media expertise are not a strong match."
+    },
+    "January": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Financial AI and LLM application development",
+          "Data engineering for financial data pipelines",
+          "Full-stack with fintech or financial product experience",
+          "AI agent systems for financial workflows",
+          "Backend systems with strong data modeling for finance"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from fintech or wealth management platforms",
+          "Those who have built consumer or SMB financial products",
+          "Candidates from companies handling financial data at scale"
+        ],
+        "rejected_traits": [
+          "Pure research without financial product context",
+          "Candidates without interest in personal finance or wealth tech",
+          "Engineers without data pipeline or backend experience"
+        ]
+      },
+      "other_signals": "January is building AI-powered financial planning tools. Growing traction in consumer fintech. Compensation competitive. Remote-friendly with NYC hub.",
+      "summary": "January wants engineers who can build AI-powered financial products and data pipelines. They strongly prefer candidates with fintech or financial services background who understand the complexity of financial data. Research-only profiles without product engineering experience are not a match."
+    },
+    "Lighthouse": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend and infrastructure engineering (Kubernetes, ML infra, DevOps tooling)",
+          "Full-stack capabilities with Python/TypeScript",
+          "Infrastructure optimization and cost reduction experience",
+          "Conversational AI and automation experience",
+          "High-ownership, scrappy builders who can work independently"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from ML/AI infrastructure-heavy environments",
+          "Mid-level engineers with demonstrated ownership and project leadership",
+          "Candidates with DevOps/platform engineering experience",
+          "Engineers who have built internal tooling and improved developer experience"
+        ],
+        "rejected_traits": [
+          "Remote-only candidates who cannot commit to hybrid/in-person",
+          "Pure frontend without backend depth",
+          "Candidates without demonstrated ownership of production systems"
+        ]
+      },
+      "other_signals": "Location flexibility is a constraint: Lighthouse requires hybrid/in-person work. Compensation band at ~$200K base for mid-level engineers. Client can sponsor visas including E-3. Client moves quickly on candidates they like (same-day or next-day responses). Visa transfers welcomed.",
+      "summary": "Lighthouse is looking for backend and infrastructure engineers who are high-ownership builders comfortable with Kubernetes, ML infra, and DevOps tooling. They value candidates from strong engineering environments like Slack, Lyft, or high-growth startups who can work independently and ship impactful infrastructure improvements. Remote-only candidates are not a fit as they require hybrid/in-person commitment."
+    },
+    "Modus Audit": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Fullstack with AI/LLM application layer experience",
+          "Forward deployed engineering with customer-facing workflow design",
+          "0-to-1 product building and greenfield deployments",
+          "AI agent development and autonomous system building",
+          "Product-engineering hybrid capabilities"
+        ],
+        "accepted_backgrounds": [
+          "Founder experience or co-founder background",
+          "Penn/Wharton or top-tier CS programs (Berkeley CS)",
+          "Experience translating customer workflows into technical systems",
+          "Scrappy startup experience with high autonomy",
+          "Track record of embedded/on-site customer work"
+        ],
+        "rejected_traits": [
+          "Profiles perceived as not impressive despite reasonable technical credentials",
+          "Junior seniority level",
+          "Bootstrapped/overseas startup experience without tier-1 company validation",
+          "Candidates requiring visa sponsorship with geographic constraints"
+        ]
+      },
+      "other_signals": "High hiring urgency: Client responds to candidates within minutes to hours, uses enthusiastic language, and requests immediate scheduling. NYC location requirement is a hard constraint as of mid-April. Client values founder mentality and 0-to-1 building over pure technical complexity. Strong preference for candidates skeptical of current employers or seeking more impactful work.",
+      "summary": "Modus Audit seeks forward-deployed engineers with founder mentality who can translate complex customer workflows into technical AI solutions. They strongly favor candidates with co-founder or founding engineer backgrounds from well-regarded programs (Penn, Berkeley), and those with a track record of embedded customer work. NYC is a hard location requirement and seniority matters \u2014 junior profiles are screened out quickly."
+    },
+    "Mutiny": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend-leaning full-stack engineering with infrastructure expertise",
+          "AI/ML infrastructure and applied AI experience (LLM pipelines, model serving, orchestration)",
+          "Workflow orchestration and scaling (Temporal, Kubernetes, batch processing)",
+          "Product engineering with 0-to-1 building experience",
+          "Data infrastructure and pipeline development"
+        ],
+        "accepted_backgrounds": [
+          "Former founders or founding engineers with equity-raising experience",
+          "Engineers who drove significant revenue or cost impact",
+          "Early employees at startups who scaled products and teams (employee #2, #4, #15)",
+          "Engineers with proven ability to handle infrastructure migrations and scaling challenges",
+          "Product-minded engineers comfortable working cross-functionally"
+        ],
+        "rejected_traits": [
+          "No explicit rejections in this period"
+        ]
+      },
+      "other_signals": "Strong urgency: Nikhil responded to all submissions same-day or next morning. Company positioning evolved to emphasize complex creative generation platform angle. Sponsorship acceptable for strong candidates on EAD OPT. In-office/NYC preference confirmed.",
+      "summary": "Mutiny is looking for backend-heavy full-stack engineers with AI/ML infrastructure experience who have demonstrated founder-level ownership. They love candidates who drove measurable business impact, were early employees at high-growth startups, and can handle complex workflow orchestration. NYC in-office preference with same-day response cadence signals high hiring urgency."
+    },
+    "Netic": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend/distributed systems engineering with production infrastructure experience",
+          "Voice AI systems (real-time infra, Twilio, LiveKit, LLM pipelines)",
+          "Design engineering (frontend + product design hybrid, 0-to-1 product development)",
+          "ML engineering focused on recommendations/ranking systems",
+          "Full-stack with backend lean and high-scale data platform work"
+        ],
+        "accepted_backgrounds": [
+          "Founding engineers with 0-to-1 product experience",
+          "Engineers who built systems from scratch at high-growth startups",
+          "Design engineers with dual frontend execution + design ownership",
+          "Backend engineers with distributed systems and observability expertise"
+        ],
+        "rejected_traits": [
+          "MLE candidates without specific voice AI focus",
+          "Compensation mismatches \u2014 senior profiles seeking $270K-$300K+ base too high for stage",
+          "Non-engineering profiles (biz ops/strategy) \u2014 no current need",
+          "General agentic/agent orchestration without voice-specific expertise"
+        ]
+      },
+      "other_signals": "Netic is prioritizing reliability and 24/7 production stability at early stage. Design engineering is an active need \u2014 moved quickly on candidates with competing offers. Voice AI expertise is valued but MLE candidates need specific voice focus. Timeline urgency: willing to move fast for right candidates with competing offers. No mention of headcount constraints.",
+      "summary": "Netic wants backend/infra engineers and design engineers who have built production systems at high-growth startups, with particular interest in voice AI (LiveKit, Twilio, LLM pipelines) and design engineering (frontend + product design hybrid). MLE candidates need specific voice AI focus \u2014 general agentic experience is insufficient. They move quickly for strong candidates with competing offers and have a firm compensation ceiling around $270K base."
+    },
+    "Nooks": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML infrastructure and backend systems at scale (LLM fine-tuning, safety classifiers, production ML pipelines)",
+          "AI infrastructure and model deployment optimization (LLM boot times, ML model productionization)",
+          "Founding/early-stage engineer experience with 0-1 product building",
+          "Fullstack with strong backend and infrastructure depth",
+          "Platform engineering and developer tooling"
+        ],
+        "accepted_backgrounds": [
+          "Former founders or co-founders",
+          "Engineers who joined early-stage companies and scaled with them",
+          "Founding engineers or very early employees (engineer #3)",
+          "Tech leads with ownership mentality",
+          "Customer-facing engineering experience"
+        ],
+        "rejected_traits": [
+          "Mid-level PM experience when only very senior PM roles are open (seniority mismatch)",
+          "Candidates requiring H1B transfer with primarily backend/security platform focus but no AI/modern stack exposure",
+          "Fullstack engineers without clear differentiation or standout technical depth"
+        ]
+      },
+      "other_signals": "Strong expansion signal: Nooks opening new business units needing elite IC engineers who are basically founders. Hiring urgency increasing with new 0-1 engineering manager role. Company doing very well with 40 engineers. Voice AI becoming more prominent \u2014 processing 1M+ sales interactions daily. Client preference for in-office/SF-based candidates.",
+      "summary": "Nooks wants elite engineers and former founders who can build at the bleeding edge of AI-native sales tooling. They accept ML infrastructure specialists, early-stage founding engineers, and tech leads with strong ownership. They're expanding with new business units needing founder-archetype ICs. Fullstack generalists without differentiation are passed, and the bar continues to rise as they scale."
+    },
+    "Nuvo": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend-heavy distributed systems experience",
+          "Forward-deployed/customer-facing engineering with technical depth",
+          "Full-stack with strong product engineering (LLM agents in production, platform building)"
+        ],
+        "accepted_backgrounds": [
+          "Carnegie Mellon CS graduates",
+          "Brown University with strong technical credentials",
+          "Proven founder experience combined with big tech leadership (3x founder + Meta/Netflix)",
+          "Engineers seeking in-person collaboration after remote isolation"
+        ],
+        "rejected_traits": [
+          "ML infrastructure specialists without product application",
+          "Too much big tech experience particularly at certain companies (Square/LinkedIn)",
+          "Weaker engineering environment backgrounds (15-person pre-Series A, startup-only)",
+          "Data/MLE roles focused on analytics vs product engineering",
+          "Frontend-leaning full-stack candidates",
+          "Pure AI startup experience without established company background",
+          "Manager-level candidates when not actively hiring leadership",
+          "Candidates at lower compensation bands than role requires ($150-200K too low)"
+        ]
+      },
+      "other_signals": "Engineering manager search deprioritized. School pedigree important \u2014 MIT/CMU top tier, Stanford/Harvard/Berkeley/Princeton second tier. Strong preference for in-office/hybrid. Forward-deployed engineering potentially emerging as a need. High rejection rate (10 of 12 submitted) indicates tight calibration needed.",
+      "summary": "Nuvo has a high bar and specific preferences: backend-heavy distributed systems engineers from top schools (CMU, MIT preferred) or elite companies, with proven product engineering experience. They explicitly reject ML infra specialists, analytics-focused engineers, and those from weaker startup environments. School pedigree and company prestige matter significantly \u2014 this is one of the more selective clients with a 17% acceptance rate this period."
+    },
+    "Trajectory": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "RL post-training on LLMs \u2014 RLHF, reward modeling, offline RL methods",
+          "End-to-end ML production systems \u2014 full pipeline ownership from research to deployment",
+          "LLM evaluation frameworks and synthetic data generation",
+          "Agentic AI systems and agent infrastructure",
+          "Design engineering \u2014 blend of frontend development and product design",
+          "Full-stack generalist engineering with AI integration"
+        ],
+        "accepted_backgrounds": [
+          "Founding engineer experience at early-stage AI companies",
+          "Direct RL research experience from top labs (DeepMind robotics, Tesla Autopilot)",
+          "Academic pedigree from Stanford/Princeton with research focus on RL/autonomous systems",
+          "Production ML at massive scale (billions in revenue impact, 20M+ users)",
+          "Product-minded engineers who built widely-adopted internal tools"
+        ],
+        "rejected_traits": [
+          "Too short tenure at previous startup (less than 1 year)",
+          "Traditional quant finance background without sufficient AI/ML post-training depth",
+          "Wanting to pivot into research without sufficient research credentials",
+          "Pure infrastructure background without direct model training/RL experience"
+        ]
+      },
+      "other_signals": "Hiring velocity increasing \u2014 moving from narrow bullseye to requesting higher SWE funnel volume. Design Engineer role emerging with mandatory work trial. Quick decision timelines once evaluating. Research role aperture still tight but receptive to exceptional researchers. ICLR conference created temporary scheduling constraint.",
+      "summary": "Trajectory is a bleeding-edge RL/continual learning startup founded by ex-DeepMind/Windsurf researchers. They want elite researchers with direct RL post-training experience (RLHF, reward modeling) from top labs, plus design engineers and product-minded generalists as they scale. Tenure stability matters \u2014 short stints are a red flag. They're now actively expanding their SWE funnel, signaling a move toward a platform phase."
+    },
+    "Vitalize Care": {
+      "period": "2026-04-27 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Full-stack with strong product engineering orientation",
+          "AI/LLM experience (agent orchestration, healthcare AI systems, AI UI/UX)",
+          "Infrastructure + ML pipelines (distributed systems, Kubernetes)",
+          "0-to-1 product ownership and feature buildout",
+          "Frontend strength with system design thinking"
+        ],
+        "accepted_backgrounds": [
+          "Founding engineer experience or actual founders",
+          "PhD credentials (Princeton CS, UCLA)",
+          "Strong academic background (Columbia, Berkeley EECS)",
+          "Healthcare/mission-driven product experience",
+          "Career intentionality around 0-to-1 environments"
+        ],
+        "rejected_traits": [
+          "Pure infrastructure/SRE focus without immediate product engineering application",
+          "Backend-heavy profiles without strong product sensibilities",
+          "AI-first candidates without clear systems/product engineering depth",
+          "Leadership-level candidates (VPE/Director) \u2014 exclusive search firm engaged"
+        ]
+      },
+      "other_signals": "Company now open to remote candidates with higher bar than SF-based. Actively working with Daversa on exclusive VPE search. Strong interest in candidates from Alex AI layoffs. Open to H1B transfers and STEM OPT with careful evaluation. Compensation $180K-$220K for senior roles. Ryan asks detailed clarifying questions \u2014 engaged evaluation process.",
+      "summary": "Vitalize Care wants product-minded full-stack engineers with AI/LLM experience and strong academic or founding backgrounds to help scale their healthcare staffing platform. They accept a range of profiles (quant finance + ML infra, 0-to-1 product builders, healthcare AI) but consistently reject pure backend/SRE or AI-first candidates without product depth. 55% acceptance rate signals calibration is improving. VPE search is exclusive to Daversa."
+    },
+    "Wispr": {
+      "period": "2026-04-27 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Infrastructure engineering \u2014 Spark debuggability, distributed systems, large-scale backend systems",
+          "Android native development with strong Kotlin fundamentals (not React Native)",
+          "Voice/speech ML with production TTS/ASR experience and inference optimization"
+        ],
+        "accepted_backgrounds": [
+          "Early employees at startups (employee #2-8 range) showing 0-to-1 ownership",
+          "Career breaks for strategic reasons (seeking better ownership/scope) viewed positively",
+          "Active Wispr product users demonstrating genuine product interest",
+          "Track record of scrappiness even without explicit startup experience"
+        ],
+        "rejected_traits": [
+          "iOS candidates rejected due to role being filled (not quality issues)",
+          "ML candidates rejected due to full pipeline (not fit concerns)",
+          "Too junior with narrow scope \u2014 backend candidate from Meta with limited breadth rejected",
+          "React Native experience not valued for Android role \u2014 prefer native Kotlin",
+          "PM candidates with ML/technical focus not aligned with unclear PM needs"
+        ]
+      },
+      "other_signals": "Hiring urgency high for Infrastructure and Android \u2014 2-3 hires urgently needed. Android pipeline specifically called out as weak. Strong compensation flexibility for right candidates. In-office 4-5 days/week in downtown SF. Product engagement matters \u2014 active Wispr users receive positive signal. O-1 visa sponsorship acceptable.",
+      "summary": "Wispr Flow is urgently hiring backend infrastructure engineers and Android native developers (Kotlin, not React Native) while ML and iOS pipelines are full/filled. They strongly value candidates who are genuine product enthusiasts (active Wispr users get bonus points) and those who have been early employees at startups. The bar for scope and seniority is high \u2014 narrow or junior profiles are rejected even from reputable companies like Meta."
+    },
+    "Long Lake": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML infrastructure and agent foundations \u2014 built agent harness and evaluation systems from scratch",
+          "Fullstack with fintech/crypto experience \u2014 0-to-1 enterprise product with top clients",
+          "Distributed systems and backend at scale \u2014 real-time data systems",
+          "Forward deployed engineering \u2014 LLM inference pipelines and customer deployments",
+          "Developer infrastructure and tooling \u2014 DevOps and release engineering"
+        ],
+        "accepted_backgrounds": [
+          "Founding or very early employees (first 10 hires) \u2014 consistently strong signal",
+          "0\u21921 product builders \u2014 built from scratch to production with real users",
+          "AI/LLM infrastructure experience \u2014 agent systems, inference pipelines, LLM evaluation",
+          "University of Waterloo and Stanford backgrounds \u2014 noted positively"
+        ],
+        "rejected_traits": [
+          "Passive interview presence \u2014 vague answers, not demonstrating high-agency thinking",
+          "Weak motivation to leave \u2014 unclear rationale for departure",
+          "Current employees of Together AI \u2014 firm conflict",
+          "Excessive compensation \u2014 $340K+ current cash or $600K-800K TC expectations",
+          "Big tech heavy without startup context \u2014 Pinterest/Meta/Netflix backgrounds need extra context"
+        ]
+      },
+      "other_signals": "5 days/week in-office SF or NYC required. Base $180K-200K+ with equity-heavy structures. Interested in AI holding company model \u2014 candidates excited about this model are prioritized. Staff/principal level actively considered. Peregrine is a key talent sourcing target. Avoiding Together AI employees (firm conflict). Moving quickly \u2014 same-day/next-day feedback.",
+      "summary": "Long Lake wants founding/early-stage engineers (first 10 hires) with 0-to-1 product building experience and AI/LLM infrastructure depth. Strong signals from ML infra, FDE, and distributed systems backgrounds at early AI startups (Basis, Peregrine) and big tech with startup context. Rejects big tech only, passive candidates, high comp expectations, and Together AI employees. 5x/week in-office SF or NYC."
+    },
+    "Owner": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Production agentic AI \u2014 tool calling, agent loops, evals (P0, 3 AI Agent roles)",
+          "Voice AI stack \u2014 LiveKit, Pipecat, Vapi, Retell; latency and reliability focus (Phone Ordering Agent role)",
+          "Full-stack React/TypeScript + Node.js for AI Agents and Guest Web roles",
+          "Frontend depth \u2014 React/Next.js/TypeScript with SEO/Core Web Vitals awareness for Guest Web",
+          "Onboarding/activation flow engineering \u2014 PLG experience where UX drove outcomes (Launch Engineer)",
+          "Backend platform \u2014 data pipelines, third-party integrations, observability, Node.js/TypeScript (Grader Backend)",
+          "Deep backend/platform \u2014 monolith decomposition, Postgres migration, auth/authz, AI developer tooling (Core Architecture Sr. Staff)",
+          "Classic full-stack with excellence signals \u2014 builder, 0-to-1, academic pedigree, company pedigree"
+        ],
+        "accepted_backgrounds": [
+          "OpenAI, Anthropic, Cursor, Perplexity, Sierra, Cognition, Decagon backgrounds for AI Agents roles",
+          "LiveKit, Pipecat, Vapi, Deepgram, ElevenLabs, PolyAI, ASAPP, Cresta for voice role",
+          "Toast, Square, Webflow, Shopify, Vercel for Guest Web roles",
+          "HubSpot, Intercom, Notion, Linear, Rippling, Gusto for Launch Engineer",
+          "Yext, BrightLocal, Stripe, Plaid, Brex, Podium for Grader Backend",
+          "Stripe, Shopify, GitHub, Linear, Vercel, Notion, Figma, Datadog, Palantir for Core Architecture"
+        ],
+        "rejected_traits": [
+          "Junior profiles for Full Stack \u2014 Senior to Staff level required",
+          "Candidates who 'called the OpenAI API once' \u2014 must have shipped production agentic AI",
+          "Early-stage only for Core Architecture \u2014 this role requires platform thinking not product thinking",
+          "Voice without real hands-on live voice stack experience"
+        ]
+      },
+      "other_signals": "Fully remote US and Canada. Most urgent roles: AI Agents (3x, P0, fill by end of May) and Core Architecture Sr. Staff (P0). Mid-level open for AI Agents. Multiple distinct roles: AI Agents General (2x), AI Agents Voice (1x), Guest Web (IC3 + IC6), Launch Engineer (Senior-Staff), Grader Backend (Senior-Staff), Core Architecture Sr. Staff. Ping Dylan for questions.",
+      "summary": "Owner is urgently hiring AI Agents engineers who have shipped production agentic AI (tool calling, agent loops, evals). Voice role requires real LiveKit/Pipecat/Vapi/Retell experience. Also hiring fullstack for Guest Web (Toast/Shopify backgrounds), Launch Engineer (PLG/onboarding background), Grader Backend (backend platform Node.js), and Core Architecture Sr. Staff (platform + AI dev tooling \u2014 avoid early-stage only). All remote US/Canada."
+    },
+    "Phonic": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Production ML systems at scale \u2014 large-scale ranking, retrieval, LLM training",
+          "ML engineering with data pipelines and system design (not pure research)",
+          "Voice AI and speech-to-speech experience",
+          "ML graph compilers and inference stack experience",
+          "Frontend engineering with React/Next.js for product/fullstack engineer role"
+        ],
+        "accepted_backgrounds": [
+          "Less 'shiny' resumes but strong 'it factor' and good questions during screening",
+          "YC founders with hands-on technical work",
+          "Strong academic backgrounds (Stanford MS, MIT) with practical production experience",
+          "Early employees at successful startups (employee #2 scaling through Series A)",
+          "Meta (ads ML, ML infra, custom chips), Google Research, Airbnb (AI dev tools), Rime Labs"
+        ],
+        "rejected_traits": [
+          "Cultural mismatch based on personal knowledge, despite technical qualifications",
+          "Building on top of existing APIs rather than working at the model layer",
+          "Candidates who are unresponsive to scheduling requests"
+        ]
+      },
+      "other_signals": "Comp $200-270K base + up to 0.8% equity, willing to expand for exceptional candidates. In-person requirement for fullstack/product engineer role. Product Engineer renamed to Full Stack Engineer with required React/Next.js + TypeScript/Node.js. Competing for candidates with Series A companies and frontier labs. Weekend interviews possible \u2014 team moves aggressively on strong profiles. Visa sponsorship may complicate process (H1B, O-1).",
+      "summary": "Phonic wants production ML engineers who work at the model layer (not API wrappers) \u2014 large-scale ranking, LLM training, voice AI, inference stack. For the fullstack role: strong React/Next.js frontend depth, in-person SF. Strong signal from Meta ML infra, Google Research, Rime Labs. 'It factor' matters \u2014 YC founders and Stanford/MIT with real production experience. Rejects pure API builders and unresponsive candidates."
+    },
+    "Preference Model": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Post-training and reinforcement learning (RLHF, RLAIF, preference tuning)",
+          "End-to-end model training \u2014 LLMs at scale (1B+ parameters)",
+          "ML research with publications at top venues (NeurIPS, ICML, AAAI)",
+          "Distributed training infrastructure and ML systems",
+          "Agent systems and agentic AI architectures",
+          "Pre-training data pipeline experience",
+          "RLHF/RLAIF and preference tuning"
+        ],
+        "accepted_backgrounds": [
+          "Strong academics \u2014 MIT, Berkeley, CalTech, Stanford",
+          "Founding or early-stage startup engineering experience",
+          "Research publication track record at top ML conferences",
+          "Self-directed learning and personal AI research projects",
+          "DeepMind/Google (multimodal, Gemini), Meta FAIR, Anthropic, Microsoft Superintelligence, Fundamental Research Labs, Cartesia, Arcee"
+        ],
+        "rejected_traits": [
+          "Classical ML/ranking systems focus without modern LLM experience",
+          "Primarily applied AI (RAG, API-layer) rather than model training \u2014 flagged as 'too applied'",
+          "Lack of transparency about leaving current roles",
+          "Recent grads without sufficient depth \u2014 'ideally want people with a bit more experience'",
+          "Multimodal-only experience is a yellow flag (though not automatic reject)"
+        ]
+      },
+      "other_signals": "Comp $200K-$400K base flexible based on candidate strength. Remote possible for exceptional candidates (e.g., Canadian researcher considered despite onsite preference). SWE candidates considered for ML roles if strong fit. Active research-focused roles: updated JDs April 24. Fast process \u2014 responsive to candidates with competing offers. In SF, 5x/week standard.",
+      "summary": "Preference Model wants deep ML/RL researchers and engineers \u2014 post-training, RLHF, end-to-end LLM training at scale (1B+ params). Strong publication record at NeurIPS/ICML/AAAI valued. Top companies: DeepMind, Meta FAIR, Anthropic, Microsoft Superintelligence, Cartesia. Top schools: MIT, Berkeley, CalTech, Stanford. Hard rejects: applied AI/RAG work, classical ML without LLM depth, recent grads without experience. $200K-$400K base."
+    },
+    "Proximal": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Post-training and RL research engineering (GRPO, RLVR, preference tuning, synthetic data pipelines)",
+          "Multimodal and image generation (diffusion models, text-to-image, VLMs)",
+          "ML infrastructure at scale (distributed training, FSDP, vLLM, large-scale ranking)",
+          "LLM training and evaluation infrastructure (evals harnesses, benchmarking, judge systems)",
+          "Data pipeline and quality systems",
+          "Research-to-production ML systems"
+        ],
+        "accepted_backgrounds": [
+          "Meta/DeepMind/OpenAI \u2014 frontier lab experience highly valued",
+          "Early-stage AI research companies (Fundamental Research Labs, Imbue, Cartesia, Augment Code)",
+          "Strong academics (Berkeley, MIT, Stanford, CalTech)",
+          "Research lab experience with shipped production systems",
+          "Early employees at technical startups (employee #6 type profiles)",
+          "Publications at top venues (NeurIPS, ICML, AAAI, ICLR)",
+          "0-to-1 product ownership, technical founders"
+        ],
+        "rejected_traits": [
+          "Founders/PhDs who may not be hands-on IC contributors",
+          "Candidates requiring work-life balance incompatible with 6-day work week"
+        ]
+      },
+      "other_signals": "6-day work week \u2014 hard filter, candidates must commit to weekend work. Base $200K-$400K with equity focus. SF North Beach office, in-person. Competing with Anthropic, Raspberry AI, Trajectory, Preference Model for same talent pool. Some process issues (missed calls, delayed feedback) \u2014 flag to candidates but relationship is healthy. Wants to see outreach messaging due to increased candidate volume.",
+      "summary": "Proximal wants research-grade ML engineers \u2014 post-training/RL (GRPO, RLVR), multimodal, ML infra at scale (FSDP, vLLM), eval infrastructure. Top pedigrees: Meta, DeepMind, OpenAI, Cartesia, Imbue. Top schools: Berkeley, MIT, Stanford, CalTech. Publications at top venues. Must be hands-on IC (not just PhD credentials). Hard requirement: 6-day work week \u2014 candidates who can't commit to weekend work are auto-rejected. Base $200K-$400K."
+    },
+    "Raspberry AI": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "LLM and generative AI systems (multimodal experience valued)",
+          "Production ML at scale \u2014 real-time inference, high QPS systems",
+          "Full-stack product engineering with AI integration",
+          "Backend/distributed systems with AI applications",
+          "Design engineering / frontend with creative AI sensibility",
+          "Computer vision and image processing",
+          "MLOps and model deployment infrastructure"
+        ],
+        "accepted_backgrounds": [
+          "Founders and early employees (#1-15 range)",
+          "PhD-level research backgrounds (physics, CS, engineering)",
+          "0\u21921 product launches with revenue impact",
+          "Leadership going IC for right opportunity",
+          "Personal projects/side work in fashion or creative AI domains",
+          "Career progression from big tech \u2192 startups showing intentional ownership seeking",
+          "Big tech (Google, Meta, Amazon, Microsoft, Nvidia) with startup transitions",
+          "High-growth consumer (YouTube, Airbnb, Discord, Figma, TikTok)"
+        ],
+        "rejected_traits": [
+          "ML infrastructure heavy without applied AI product focus \u2014 'weird fit' for current roles"
+        ]
+      },
+      "other_signals": "Hiring across: Full Stack, Research Engineer/Lead, ML Engineering. Budget flexible at $250-300K+ base. Image model experience nice-to-have, not required \u2014 willing to evaluate strong adjacent backgrounds. Daniel leads ML roles, Drake leads product/MLE vetting. Concerned about public company employees struggling with illiquid startup equity expectations. Moving to hybrid hub model (currently remote). Seattle and SF locations.",
+      "summary": "Raspberry AI wants generative AI engineers (LLM/multimodal/image gen) with production ML at scale and applied AI product focus. Also hiring full-stack product engineers with AI integration. Strong from big tech (Google, Meta, YouTube, Figma) with startup transitions and early-stage founders. PhD research backgrounds valued. Creative AI (fashion/image) domain interest is a plus. Hard reject: pure ML infra without applied product focus. $250-300K+ base."
+    },
+    "ResiQuant": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend/infrastructure engineering with AI/ML production experience",
+          "End-to-end LLM/VLM pipeline work (not just API integration)",
+          "Hybrid retrieval systems (vector search + structured filtering)",
+          "Real-time production systems with scale constraints (2K QPS, low-latency voice)",
+          "Computer vision applications (satellite imagery, document parsing)"
+        ],
+        "accepted_backgrounds": [
+          "Recent grads (2025-2026) with strong production experience during school",
+          "Engineers who worked full-time at startups while in school",
+          "Multiple hackathon wins and shipped side projects",
+          "Published ML research (NeurIPS) combined with product work",
+          "Former forward deployed engineers comfortable with customer interaction",
+          "YC/Pear/Arc-tier early AI startups \u2014 Pika Labs, Taktile, Abacus AI, Crater"
+        ],
+        "rejected_traits": [
+          "Frontend-heavy profiles without backend/AI depth",
+          "4+ YOE senior engineers with premium competing offers ($400K range)",
+          "Large company backgrounds (C3, Figma, Discord) without early-stage startup experience",
+          "Candidates who ask for defensibility/moat clarity beyond what seed-stage can provide",
+          "Engineers primarily motivated by large company stability over startup conviction"
+        ]
+      },
+      "other_signals": "Target profile: 0.5-2 YOE engineers at $150-175K base + ~1% equity. Will re-level post-Series A. Visa sponsorship available \u2014 competitive advantage for international candidates. Series A fundraise on horizon. Budget $275-300K total across two roles. Running multiple candidates through founder screens simultaneously. Note: $150K base may struggle in current SF market for strong junior candidates \u2014 manage expectations.",
+      "summary": "ResiQuant targets junior engineers (0.5-2 YOE, recent grads 2025-2026) from YC/Pear/Arc-tier early AI startups. Wants hands-on builders: backend/AI production (LLM/VLM pipelines, vector search, real-time systems), hackathon winners, engineers who built at startups while in school. Hard rejects: senior engineers with $400K+ comp, large company backgrounds without startup experience, frontend-heavy. Budget $150-175K base + ~1% equity. Visa sponsorship available."
+    },
+    "Runlayer": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend/platform infrastructure with high-scale distributed systems (millions-of-events scale)",
+          "MCP (Model Context Protocol) infrastructure and AI enablement platform",
+          "Agent orchestration and AI safety/monitoring systems",
+          "Kubernetes at scale (50+ clusters, multi-cloud, multi-tenant SaaS)",
+          "Secrets management and zero-trust infrastructure (HashiCorp Vault)"
+        ],
+        "accepted_backgrounds": [
+          "Ex-founders or CTOs from adjacent AI/agent spaces",
+          "Led 0-to-1 infrastructure initiatives at scale",
+          "Staff-level scope with demonstrated technical leadership",
+          "AI-native developer tooling experience (Cursor, Claude integrations)",
+          "Chime (AI/MCP platform), Retool, Fivetran, Center for AI Safety, Instacart"
+        ],
+        "rejected_traits": [
+          "ML inference / GenAI serving specialization instead of general infrastructure and systems scaling",
+          "DevOps/platform work without extensive AI infrastructure knowledge or distributed systems depth",
+          "Junior engineers or those with insufficient infra/scalability experience",
+          "Generalist senior engineers lacking high-event-throughput distributed systems experience",
+          "AI/ML engineer profiles when no such role is open",
+          "Dev infra / build systems focus without runtime platform/agent systems work",
+          "Product engineer candidates without AI infra or exceptional ex-founder credentials"
+        ]
+      },
+      "other_signals": "P0 roles: SRE (Fortune 100 regulated environment, deep K8s + Terraform + multi-tenant customer isolation) and Platform Engineer (proven distributed systems at millions-of-events scale). Also hiring: Security Engineer (built security products, AI security knowledge required), Identity Engineer (OAuth broker, SCIM, SAML 2.0, agentic/MCP identity), Product Designer (P0, AI-native customer-facing), Forward Deployed Engineer (technical depth + selling capability). Product Engineer is LOW priority \u2014 only exceptional ex-founder profiles. Remote near SF/NYC hubs.",
+      "summary": "Runlayer wants elite infra engineers for AI agent platforms \u2014 P0 SRE (Fortune 100 K8s/Terraform, multi-tenant isolation) and Platform Engineer (millions-of-events distributed systems). MCP infrastructure experience is a strong plus. Hard rejects: ML inference specialists, pure DevOps without distributed systems depth, anything less than staff-level. Ex-founders from AI/agent spaces are top of list. Also hiring Security Engineer (AI security) and Identity Engineer (MCP/agentic identity, OAuth/SCIM/SAML)."
+    },
+    "Sphere": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend and infrastructure engineering",
+          "Kubernetes expertise and custom tooling",
+          "ML infrastructure and DevOps optimization",
+          "Security engineering experience",
+          "Full-stack capabilities (Next.js/React) alongside backend work"
+        ],
+        "accepted_backgrounds": [
+          "PhD credentials (UCLA level)",
+          "Tech lead experience at smaller companies",
+          "Cost savings and infrastructure optimization track record ($650K+ savings)",
+          "Strong ownership and influence on engineering processes",
+          "Slack (enterprise security/infra), Lyft (autonomous driving/ML), infrastructure-heavy startups (Gridmatic)"
+        ],
+        "rejected_traits": [
+          "No explicit rejections documented \u2014 no response from client on one submission, possibly lack of fit"
+        ]
+      },
+      "other_signals": "Comp $200K+ base plus equity for senior roles. Willing to accommodate hybrid and potentially remote (initially preferred 5x in-office). Moves quickly on candidates \u2014 same-day responses. Hosts exclusive networking events for senior engineers. Prioritizes strong team culture and mission alignment. SF-based, Series A fintech/AI company.",
+      "summary": "Sphere wants senior full-stack engineers with strong backend/infra depth \u2014 Kubernetes, security, ML infra, DevOps optimization. PhD credentials and tech lead experience at smaller companies are positive signals. Slack, Lyft, and infra-heavy startup backgrounds work well. $200K+ base. Moves quickly on candidates and open to hybrid/remote. Mission alignment and culture fit are important."
+    },
+    "Swoop": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Full-stack with strong frontend depth",
+          "Rails Hotwire experience",
+          "Strong UX sensibility and focus"
+        ],
+        "accepted_backgrounds": [
+          "Engineers with frontend-heavy full-stack track records",
+          "Rails-experienced engineers"
+        ],
+        "rejected_traits": [
+          "Backend-leaning engineers without strong frontend depth",
+          "Platform/infrastructure-focused engineers without UX emphasis",
+          "Lack of Rails Hotwire or frontend framework expertise aligned with their stack",
+          "Pure Node/React backgrounds without Rails experience"
+        ]
+      },
+      "other_signals": "Rails experience strongly preferred \u2014 not open to pure Node/React without Rails. Recent successful hire (Tyler on GenAI team) shows searches are closeable. Open to Canada remote. Role has crystallized: frontend-heavy full-stack with UX emphasis is the requirement, not general Rails full-stack.",
+      "summary": "Swoop wants frontend-heavy full-stack engineers with Rails Hotwire experience and strong UX focus. This is the hard requirement \u2014 backend-leaning profiles are consistently rejected. Pure Node/React without Rails won't work. Open to Canada remote. Small team, fast feedback."
+    },
+    "TierZero": {
+      "period": "2026-04-20 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML infrastructure and systems \u2014 inference, compilers, model serving",
+          "Backend/distributed systems at scale",
+          "Full-stack with AI/product focus",
+          "Real-time systems and data pipelines",
+          "AI agent development and LLM tooling"
+        ],
+        "accepted_backgrounds": [
+          "Founding engineer or founder with 0\u21921 experience",
+          "PhD credentials in relevant fields",
+          "Top university degrees \u2014 Berkeley, UC San Diego, UIUC",
+          "AI-native product building experience",
+          "Strong ownership and tech lead experience",
+          "Meta/Facebook, Google (YouTube/Maps/BigQuery), Microsoft Copilot, Databricks, DoorDash, Reddit, Labelbox, Airbnb, LinkedIn, Amazon/AWS"
+        ],
+        "rejected_traits": [
+          "Lack of either stellar education credentials OR top-tier company experience \u2014 need one of the two"
+        ]
+      },
+      "other_signals": "Hiring bar: must have stellar education (Berkeley/UCSD/UIUC MS/PhD) OR top-tier company (Meta, Google, Databricks, etc.) \u2014 both is best, but one is required. High urgency \u2014 candidates moving to onsites within days of submission. Hybrid SF office. Competing with OpenAI, Sierra, Decagon, Ramp, Luma for same talent. SRE role is P0.",
+      "summary": "TierZero has a clear bar: stellar education (Berkeley/UCSD/UIUC MS+) OR top-tier company (Meta, Google, Databricks, etc.) \u2014 required. Wants ML infra/systems, backend/distributed, fullstack AI, or AI agent engineering backgrounds. Founding engineer experience is a strong plus. Moving extremely fast \u2014 onsites within days. Hybrid SF. Competing with OpenAI, Sierra, Decagon for candidates."
+    },
+    "Zingage": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Field Deployment Engineering \u2014 solution architecture with coding, strong data analysis, 25-50% travel comfort",
+          "Backend/platform engineering with ML systems or data-intensive application experience",
+          "Senior full-stack for SF office anchor hire"
+        ],
+        "accepted_backgrounds": [
+          "ML systems and data platform experience for backend roles",
+          "Solution architect backgrounds with coding skills",
+          "Product engineers wanting customer-facing/FDE work",
+          "Marketplace-focused PMs"
+        ],
+        "rejected_traits": [
+          "Junior engineers for SF anchor hire \u2014 must be senior level",
+          "Non-marketplace PMs"
+        ]
+      },
+      "other_signals": "Very high urgency \u2014 engineering bandwidth is the main bottleneck. 50-60% MoM growth, $3.2M ARR, $5M signed ARR. Series A expected to close (end of April timeline passed \u2014 may be imminent). Aggressive comp: $250-350K base + 1%+ equity. Opening SF office. 4 Field Deployment Engineers needed urgently. Adding PM search (marketplace-focused).",
+      "summary": "Zingage urgently needs Field Deployment Engineers (solution architects who code, comfortable with 25-50% travel, data analysis skills) and backend engineers (ML systems/data platform). $250-350K base + 1%+ equity. Series A imminent. Very early, fast-moving \u2014 $5M signed ARR but engineering-constrained. SF anchor hire must be senior."
+    },
+    "Altara": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "AI co-scientist research engineering \u2014 AI for physical world R&D and semiconductor/materials work",
+          "Backend systems with AI integration, production ML pipelines",
+          "Applied AI in hardware/physical domains \u2014 sensors, materials, R&D workflows",
+          "Strong fundamentals: algorithms, distributed systems, performance engineering"
+        ],
+        "accepted_backgrounds": [
+          "Engineers from Jane Street, Nvidia, Applied Intuition, Warp, SpaceX",
+          "Founding or early engineers at deep tech / AI startups",
+          "Top CS or engineering programs \u2014 physics/CS combo a plus",
+          "Hardware or electrical engineering background is a bonus"
+        ],
+        "rejected_traits": [
+          "Pure software without scientific or hardware domain curiosity",
+          "Remote-only candidates \u2014 SF in-office 5x/week required",
+          "Candidates without startup experience"
+        ]
+      },
+      "other_signals": "SF in-office 5x/week. Seed, Greylock-backed. Two roles based on JD URLs (likely Software Engineer and research-adjacent). Deep technical bar \u2014 team from Jane Street, Nvidia, Applied Intuition. AI co-scientist for physical world R&D.",
+      "summary": "Altara wants scientists who code \u2014 engineers with curiosity about the physical world (semiconductors, materials, hardware) plus strong backend/AI systems chops. Dream pedigree: Jane Street, Nvidia, Applied Intuition, SpaceX. Early-stage, SF 5x/week, Greylock-backed. Avoid pure software engineers without scientific curiosity or domain interest."
+    },
+    "Andera": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "AI agent systems and LLM application development \u2014 tool calling, agent loops, orchestration",
+          "Evaluation benchmarks and LLM reasoning assessment",
+          "Full-stack: React (TypeScript) + Python, Docker, AWS",
+          "Financial auditing domain knowledge or fintech background a plus",
+          "Model fine-tuning and collaboration with AI research labs"
+        ],
+        "accepted_backgrounds": [
+          "Self-directed engineers with strong technical opinions on AI agent workflows",
+          "Founding engineers comfortable building 0-to-1 without oversight",
+          "Engineers from AI-native startups or with deep LLM production experience"
+        ],
+        "rejected_traits": [
+          "Engineers who need heavy direction or management",
+          "Pure backend without AI agent or LLM experience",
+          "Candidates not excited about financial compliance/audit domain"
+        ]
+      },
+      "other_signals": "Founding Engineer role. SF, full-time in-office. Comp $150K-$200K base + equity + performance bonuses up to $300K. BCV-backed (Seed). Building AI agents for audit, compliance, and financial workflows. Small team, high ownership.",
+      "summary": "Andera wants a founding engineer to build AI agents for financial auditing \u2014 LLM orchestration, evals, fine-tuning, full-stack (React/TypeScript + Python). Strong technical opinions required; self-directed working style essential. $150-200K base + up to $300K with bonuses. SF in-office, BCV-backed Seed stage."
+    },
+    "Ando": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Product Engineer: LLM/agent systems, memory systems, tool calling, retrieval, eval mechanisms, real-time messaging infra",
+          "Design Engineer: experimental HCI interfaces, interaction and motion design, prompt engineering, frontend programming",
+          "3+ years engineering experience (Product Engineer); strong design + programming (Design Engineer)",
+          "Daily LLM user with genuine enthusiasm for agents and AI collaboration"
+        ],
+        "accepted_backgrounds": [
+          "Engineers who appreciate software craftsmanship and care deeply about quality",
+          "People who thrive in early-stage environments with late nights and small teams",
+          "Consumer-focused engineers who want to reach hundreds of thousands of users",
+          "Index + Accel network \u2014 top-tier VC backing signals high bar"
+        ],
+        "rejected_traits": [
+          "Remote candidates \u2014 SF on-site required",
+          "Engineers not genuinely into LLMs and agents day-to-day",
+          "Pure backend without interest in human-agent interaction",
+          "Design Engineers without programming ability"
+        ]
+      },
+      "other_signals": "Two roles: Product Engineer (3+ years, SF on-site) and Design Engineer (SF on-site). No comp listed. Index + Accel backed, Seed. Building next-gen team messaging for human-AI collaboration \u2014 founded by Sara Du (Harvard, Thiel Fellow, prev Alloy Automation Series A/a16z). Jackson Square SF office.",
+      "summary": "Ando wants engineers who are obsessed with LLMs and agents \u2014 Product Engineer (tool calling, memory systems, retrieval, eval) and Design Engineer (HCI, interaction/motion design, prompt engineering). Both SF on-site. Must be genuine daily LLM users. Thiel Fellow founder, Index + Accel backing. Early-stage with small team energy."
+    },
+    "Arena Physica": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Software Engineer: backend/distributed systems, multi-agent systems, scalable system design, cloud (AWS/Azure/GCP), LLM pipelines with physics-informed deep learning",
+          "Deployment Strategist: full-stack technical literacy, product development, customer deployment management, AI-native product commercialization",
+          "Data ingestion/indexing platforms with constant-time retrieval",
+          "High-throughput ML pipelines combining LLMs with domain-specific models"
+        ],
+        "accepted_backgrounds": [
+          "5+ years at startups or top tech companies (Software Engineer role)",
+          "Hardware, electrical engineering, or automotive/aerospace/manufacturing background",
+          "Customer-facing technical roles with enterprise stakeholder management",
+          "Experience in AEC, semiconductor, or hardware-adjacent domains"
+        ],
+        "rejected_traits": [
+          "Remote candidates \u2014 NYC HQ 5x/week required",
+          "Engineers without distributed systems or multi-agent experience (SWE role)",
+          "Deployment Strategist without technical depth \u2014 'full-stack technical literacy' required"
+        ]
+      },
+      "other_signals": "Two roles: Software Engineer ($150K-$225K, NYC 5x, 20% travel) and Deployment Strategist ($140K-$190K, NYC HQ + up to 50% travel). Both include equity. ~50-person team. Series B, Founders Fund. Clients in semiconductor, automotive, aerospace. 20-50% travel required for both roles.",
+      "summary": "Arena Physica (Series B, Founders Fund) wants engineers for AI hardware optimization platform Atlas. SWE role: 5+ years, backend/distributed systems, multi-agent, cloud \u2014 NYC 5x. Deployment Strategist: technical depth + customer deployment + 50% travel. Hardware domain experience (semiconductor, automotive, aerospace) strongly preferred. Both roles NYC-based with significant travel."
+    },
+    "Eagle": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "LLMs, agent frameworks, RAG systems, browser automation, document parsing",
+          "AEC (Architecture/Engineering/Construction) software integration",
+          "End-to-end problem ownership \u2014 from customer discovery through production deployment",
+          "Data connectors, document intelligence, knowledge repository systems"
+        ],
+        "accepted_backgrounds": [
+          "Curious engineers who understand organizations, workflows, and markets",
+          "Strong communicators who can build trust with non-technical professionals",
+          "Engineers who handle diverse tasks \u2014 web scraping to plugin development",
+          "Mid-to-senior level with founding team energy",
+          "Lightspeed network \u2014 top-tier VC backing"
+        ],
+        "rejected_traits": [
+          "Remote candidates \u2014 NYC on-site required",
+          "Pure researchers without product ownership mindset",
+          "Engineers who can't communicate effectively with non-technical stakeholders"
+        ]
+      },
+      "other_signals": "Founding Member of Technical Staff. NYC on-site. $150K-$300K base + early equity. Lightspeed-backed. AEC (architecture, engineering, construction) domain \u2014 acquires and transforms AEC firms using AI. Founders embed with customers. Must be comfortable in professional service environments.",
+      "summary": "Eagle (Lightspeed, Seed) wants a founding engineer to embed in civil/structural engineering firms and build AI automation. LLMs, RAG, browser automation, document parsing for AEC workflows. Must be a strong communicator with non-technical stakeholders \u2014 as much consulting mindset as engineering. NYC on-site, $150-300K base, early equity."
+    },
+    "Klarity": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "AI Backend Engineer (Jr): backend systems, LLM orchestration, evals, data ingestion, enterprise security \u2014 1-3 YOE or exceptional new grad",
+          "AI Frontend Engineer (Jr): React, TypeScript, Tailwind, AI-native interfaces \u2014 1-2 YOE or exceptional new grad",
+          "Senior AI Backend Engineer: distributed systems, AI orchestration pipelines, evals/regression testing, enterprise security/tenant isolation \u2014 4+ YOE",
+          "Senior AI Product Engineer: full-stack (React/TypeScript + Python), product instincts, AI-native features, customer discovery \u2014 Senior level",
+          "Production LLM/multimodal agent experience across all roles",
+          "Proficiency with AI dev tools: Cursor, Claude Code, Copilot, v0.dev"
+        ],
+        "accepted_backgrounds": [
+          "No CS degree required \u2014 strong portfolio/production work accepted",
+          "Engineers who ship to production quickly and iterate fast",
+          "AI-native developers who use Cursor/Claude Code daily",
+          "Clients include OpenAI, DoorDash, Stripe, Google, ServiceNow \u2014 enterprise-grade bar"
+        ],
+        "rejected_traits": [
+          "Pure researchers without product/shipping focus",
+          "Engineers who can't work hybrid (3-4 days/week SF Bay Area in-office)",
+          "Remote-only candidates"
+        ]
+      },
+      "other_signals": "Series B ($91M raised, 7x growth). SF Bay Area, hybrid 3-4 days/week. Comp: Jr Backend $201K-$240K, Jr Frontend $140K-$205K, Sr Backend $220K-$280K, Sr Product $167K-$220K \u2014 all plus equity. Relocation assistance. No degree required. Clients: OpenAI, DoorDash, Stripe, Google. MIT-grad CTO, strong AI-first culture.",
+      "summary": "Klarity (Series B, $91M, YC) wants AI-native engineers at all levels \u2014 junior and senior backend (LLM orchestration, evals, enterprise security) and product/frontend (React/TypeScript, AI-native features). No CS degree required; production work speaks loudest. SF Bay Area hybrid 3-4x/week. Comp $140K-$280K+ depending on level. Must use Cursor/Claude Code daily. Clients: OpenAI, Stripe, DoorDash, Google."
+    },
+    "Luminai": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Applied AI Engineer: ML model training/fine-tuning, evaluation frameworks, observability/monitoring for AI safety, production ML deployment",
+          "Forward Deployed Engineer: Python (TypeScript a plus), cloud infra (AWS/GCP/Azure), AI systems (LLMs, vector DBs, agent frameworks), end-to-end customer deployment",
+          "Benchmark optimization and model experimentation for AI systems",
+          "High ownership, independent operation in fast-changing enterprise environments"
+        ],
+        "accepted_backgrounds": [
+          "Bachelor's or Master's in CS/ML (Applied AI role) or equivalent production experience",
+          "FDE backgrounds: Palantir, Scale AI, or similar customer-facing technical roles",
+          "Engineers from Dropbox, Notion, or other product-focused engineering cultures",
+          "Healthcare domain experience a plus (not required)"
+        ],
+        "rejected_traits": [
+          "Remote-only candidates \u2014 SF (San Mateo) or NYC, in-office Mon/Tue/Thu required",
+          "Pure researchers without production deployment track record",
+          "FDE candidates without ability to communicate with non-technical healthcare stakeholders"
+        ]
+      },
+      "other_signals": "Two roles: Applied AI Engineer ($170K-$250K, San Mateo or NYC) and Forward Deployed Engineer ($150K-$220K, San Mateo or NYC). Both in-office 3x/week (Mon/Tue/Thu). $60M Series B, Peak XV (Sequoia India). Investors include OpenAI CPO Kevin Weil and Dropbox/Notion founders. Healthcare automation \u2014 high-stakes production environments.",
+      "summary": "Luminai (Series B, Peak XV/GC) wants applied AI engineers who can ship production ML systems (fine-tuning, evals, monitoring) and FDEs who embed with hospital health systems to deploy AI automation. Both roles are SF (San Mateo) or NYC, in-office 3x/week. Healthcare domain. $150K-$250K base. Strong signal from Palantir, Scale AI, Dropbox, Notion backgrounds."
+    },
+    "Roam": {
+      "period": "2026-05-05",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "World generation pipelines \u2014 distributed multi-agent systems for coordinated 3D world synthesis",
+          "Reinforcement learning \u2014 adaptive game generation, hierarchical action spaces",
+          "Agentic code generation and diffusion-based tools for simulated environments",
+          "Distributed training, data curation, large-scale vision/3D pipelines",
+          "Diffusion model training or fine-tuning",
+          "Large multimodal or agentic system building/training"
+        ],
+        "accepted_backgrounds": [
+          "Research engineers who can switch between production code and research",
+          "Ex-Moonshot (Kimi) AI researchers",
+          "Game engine or 3D simulation framework experience",
+          "Robotics, multi-agent systems, or simulation-based RL backgrounds",
+          "Strong software fundamentals alongside research depth"
+        ],
+        "rejected_traits": [
+          "Pure software engineers without ML/research background",
+          "Remote candidates \u2014 SF on-site required",
+          "Researchers who can't write production code"
+        ]
+      },
+      "other_signals": "Research Engineer role. SF on-site. $200K-$350K base + 0.5%-1.5% equity. Free housing, food, and transportation provided. Visa sponsorship and relocation support. 12-person team, includes ex-Moonshot researchers. Seed stage, world models for 3D environments/games. Very high equity for early team.",
+      "summary": "Roam wants research engineers who can build world models \u2014 distributed multi-agent world generation, RL for game/simulation, diffusion models, agentic code generation. SF on-site. $200-350K base + 0.5-1.5% equity + free housing/food/transport. Ex-Moonshot AI researchers on team. Must be able to do both production code and research. Exceptional comp package for Seed stage."
+    },
+    "Springdale Industries": {
+      "period": "2026-04-13 to 2026-05-03",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Forward-deployed engineering with client-facing experience",
+          "Full-stack with backend emphasis and practical applied AI (RAG, LLM workflows)",
+          "Zero-to-one product building and agentic systems",
+          "Applied AI over pure ML research"
+        ],
+        "accepted_backgrounds": [
+          "Former founders or co-founders with startup experience",
+          "New grads with exceptional GitHub activity (1,400+ contributions) and competitive programs",
+          "Engineers who left big tech for more ownership/impact",
+          "Candidates explicitly interested in AI rollup/holding company model",
+          "Palantir (FD model), Scale AI, Peregrine (FDE at legal-tech), AI-native startups (Browser Use YC W25, Didero)"
+        ],
+        "rejected_traits": [
+          "Candidates prioritizing 'interesting technical challenges' over business impact",
+          "Heavy infrastructure/platform specialists seeking scale problems over 0-1 building",
+          "Pure ML/research-oriented profiles vs. applied AI",
+          "Remote-first or location-inflexible candidates",
+          "High comp expectations ($250K+ base) without founder/leadership scope fit",
+          "Quant/finance backgrounds seeking intellectual rigor over scrappy business problems",
+          "Candidates with poor backchannel references",
+          "Candidates who don't respond to intros"
+        ]
+      },
+      "other_signals": "NYC in-person required. Personability is critical \u2014 engineers must navigate non-technical M&A/finance environments as easily as tech environments. Positioning as 'investment platform' (not 'permanent capital vehicle'). Candidate must be genuinely excited about the AI rollup/PE model \u2014 curiosity-only candidates waste time. $250K+ base not a fit unless founder/leadership scope. Active hiring with urgency.",
+      "summary": "Springdale wants applied AI engineers who are excited about the AI rollup/PE business model \u2014 not pure technologists. Forward-deployed experience (Palantir, Peregrine) and founder backgrounds are top signals. Must be comfortable in M&A/finance environments, not just pure tech. Hard rejects: infra-heavy, pure ML/research, remote-only, $250K+ comp expectations without leadership fit, anyone not genuinely excited about the holding company model. NYC in-person."
+    },
+    "AfterQuery": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack builders",
+          "ML infra",
+          "eBPF/GPU infra",
+          "top CS grads (MIT/Waterloo)"
+        ],
+        "accepted_backgrounds": [
+          "ex-founders",
+          "top CS programs (MIT, Waterloo)"
+        ],
+        "rejected_traits": [
+          "product/community focus",
+          "leadership-heavy",
+          "non-SF location",
+          "no signs of excellence"
+        ]
+      },
+      "other_signals": "Strong preference for SF-based candidates with clear signals of excellence. Ex-founders are a strong positive.",
+      "summary": "AfterQuery wants elite technical builders \u2014 full-stack, ML infra, or eBPF/GPU infra \u2014 with top CS pedigree or founding experience. Non-SF and leadership-heavy profiles are passed."
+    },
+    "Antes AI": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML engineering (recs/ranking)",
+          "zero-to-one product building",
+          "multi-agent systems (LangGraph)",
+          "full-stack data platform"
+        ],
+        "accepted_backgrounds": [
+          "ML engineers with recs/ranking experience",
+          "zero-to-one builders",
+          "multi-agent/LLM engineers"
+        ],
+        "rejected_traits": [
+          "pure big-tech without startup interest (can be overcome with strong motivation)"
+        ]
+      },
+      "other_signals": "Pure big-tech backgrounds can overcome rejection if candidate shows genuine startup interest.",
+      "summary": "Antes AI accepts ML engineers with recs/ranking background, zero-to-one builders, and multi-agent/LangGraph experience."
+    },
+    "Assured": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "AI/ML infra (evals, agents, RAG)",
+          "full-stack product engineering",
+          "FDE with enterprise deployment"
+        ],
+        "accepted_backgrounds": [
+          "Palantir FDE",
+          "Airtable"
+        ],
+        "rejected_traits": [
+          "SF location (NYC required)",
+          "no recent AI tooling experience",
+          "weak motivation",
+          "unfocused profiles",
+          "too junior"
+        ]
+      },
+      "other_signals": "NYC only \u2014 hard location requirement.",
+      "summary": "Assured wants NYC-based AI/ML infra, full-stack product, or FDE candidates. SF is a hard disqualifier."
+    },
+    "Auctor": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ops/strategy with quant background",
+          "backend/AI-ML infra",
+          "LLM infrastructure"
+        ],
+        "accepted_backgrounds": [
+          "Citadel",
+          "quant finance with LLM experience"
+        ],
+        "rejected_traits": [
+          "recent grads",
+          "job hopping",
+          "not immediate-impact ready",
+          "visa complications"
+        ]
+      },
+      "other_signals": "Citadel backgrounds are a strong positive. Visa complications are a blocker.",
+      "summary": "Auctor wants senior quant/ops or backend/LLM infra candidates. Citadel valued. No recent grads, job hoppers, or visa complications."
+    },
+    "Black Forest Labs": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Python/Bash/Go",
+          "Kubernetes + GPU cluster management (Nvidia GPU drivers/operators)",
+          "AWS/GCP infra as code",
+          "OTel/Prometheus observability",
+          "SLURM workload management",
+          "large-scale distributed ML training platforms"
+        ],
+        "accepted_backgrounds": [
+          "frontier AI lab infra engineers",
+          "hyperscaler GPU infra teams",
+          "HPC/distributed compute engineers"
+        ],
+        "rejected_traits": [
+          "no GPU/ML training infra experience",
+          "cannot commit to hybrid presence (Freiburg or SF)"
+        ]
+      },
+      "other_signals": "Comp $180K\u2013$300K. Offices: Freiburg Germany or SF. On-call rotation required. Mid-to-senior level.",
+      "summary": "Black Forest Labs wants senior infra engineers to build GPU-scale training infrastructure. $180-300K comp. Frontier AI lab or hyperscaler infra background ideal."
+    },
+    "Brellium": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack frontend-heavy (TypeScript/React)",
+          "backend with ML + founder experience",
+          "infra/backend (Block/Twitter pedigree)",
+          "AWS/K8s"
+        ],
+        "accepted_backgrounds": [
+          "Block/Twitter engineers",
+          "ex-founders with ML experience"
+        ],
+        "rejected_traits": [
+          "<7 YOE",
+          "no VC-backed startup experience",
+          "visa complexity (STEM OPT ending 2026)",
+          "job-hopping",
+          "MBA/career pivots"
+        ]
+      },
+      "other_signals": "Minimum 7 YOE. STEM OPT ending 2026 is a blocker.",
+      "summary": "Brellium wants 7+ YOE full-stack (TypeScript/React) or backend/ML with VC-backed startup experience. Block/Twitter and ex-founders are strong. OPT visa is a pass."
+    },
+    "Causal Labs": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "large-scale data pipeline (hundreds of trillions of tokens)",
+          "LLM pre-training infra",
+          "domain-specific foundation model from scratch",
+          "novel eval methods",
+          "long-context transformers"
+        ],
+        "accepted_backgrounds": [
+          "MIT PhD",
+          "deep foundation model researchers"
+        ],
+        "rejected_traits": [
+          "traditional ML/recs (Meta/Instagram)",
+          "agentic AI focus",
+          "backend without deep AI",
+          "platform infra without foundation model focus",
+          "crypto/quantum",
+          "post-training/RL only"
+        ]
+      },
+      "other_signals": "Very narrow scope \u2014 foundation model pre-training specialists only.",
+      "summary": "Causal Labs only wants deep foundation model pre-training engineers. MIT PhD-level. Traditional ML recs, agentic AI, and post-training/RL rejected."
+    },
+    "Charta Health": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack frontend-heavy (TypeScript/React/Next.js)",
+          "backend/ML",
+          "healthcare AI (agentic/voice)",
+          "enterprise platform",
+          "data engineering compliance"
+        ],
+        "accepted_backgrounds": [
+          "healthcare AI engineers",
+          "enterprise platform builders",
+          "agentic/voice AI engineers"
+        ],
+        "rejected_traits": [
+          "<10 YOE (updated requirement)",
+          "FDE without backend depth",
+          "primarily frontend only",
+          "big-tech internal tooling without product depth",
+          "strong ML research without production depth"
+        ]
+      },
+      "other_signals": "Updated to 10+ YOE requirement. Production depth required.",
+      "summary": "Charta Health wants 10+ YOE full-stack (TypeScript/React/Next.js) or backend/ML engineers with healthcare AI or enterprise platform experience."
+    },
+    "Chroma": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "vector search architecture (high-QPS)",
+          "ML eval/data quality",
+          "search infra"
+        ],
+        "accepted_backgrounds": [
+          "Databricks",
+          "Amazon Search",
+          "Yandex search infra"
+        ],
+        "rejected_traits": [
+          "big-tech only without startup experience",
+          "ML applied without infra/systems depth"
+        ]
+      },
+      "other_signals": "Startup experience required. Systems/infra depth essential for ML roles.",
+      "summary": "Chroma wants vector search architects and ML eval/data quality engineers. Databricks, Amazon Search, Yandex backgrounds accepted. Big-tech-only without startup exposure is a pass."
+    },
+    "Cleric": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Python (primary)",
+          "Kubernetes, Kafka, Spark, microservices",
+          "production LLM agent development",
+          "distributed infra/SRE"
+        ],
+        "accepted_backgrounds": [
+          "deep SRE or platform engineering background",
+          "startup experience",
+          "shipped production agents end-to-end"
+        ],
+        "rejected_traits": [
+          "non-US work authorized (hard requirement)",
+          "unwilling to work in-person in San Francisco",
+          "no agent development experience"
+        ]
+      },
+      "other_signals": "Staff role: $200K\u2013$240K + equity, SF in-person, staff/tech lead level. Junior backend role also open. Both require US work auth and SF office presence.",
+      "summary": "Cleric wants a Staff AI/infra engineer who has shipped production agents ($200-240K, SF in-person). US work auth and SF office are hard requirements."
+    },
+    "CloudGlue": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [],
+        "accepted_backgrounds": [],
+        "rejected_traits": [
+          "timing-related rejections only (hiring pause)"
+        ]
+      },
+      "other_signals": "Hiring pause in effect. All rejections were timing-related.",
+      "summary": "CloudGlue is in a hiring pause. No useful signal data."
+    },
+    "CodeRabbit": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "TypeScript + Python (both for AI role)",
+          "RAG systems, RLHF pipelines, reward modeling, agentic workflows",
+          "GCP/K8s/Terraform/Datadog (SRE role)",
+          "React + Node.js full-stack",
+          "LangChain/LlamaIndex/vector DBs",
+          "AI coding tool proficiency (Cursor, Claude Code) \u2014 required for FS role"
+        ],
+        "accepted_backgrounds": [
+          "3+ years production ML/LLM experience",
+          "developer tooling background",
+          "open-source AI/ML contributions",
+          "6-8 years SRE/Platform for SRE role"
+        ],
+        "rejected_traits": [
+          "not in Bay Area or unwilling to relocate within one month (AI/SRE roles)",
+          "less than 3 years ML production experience for AI role",
+          "no experience using AI coding tools (disqualifier for FS role)",
+          "non-US based"
+        ]
+      },
+      "other_signals": "3 roles: Applied AI ($175-275K, SF Bay hybrid), SRE (SF Bay hybrid, GCP primary), Full Stack ($160-230K, US remote/hybrid). Full Stack is most location-flexible.",
+      "summary": "CodeRabbit hiring across 3 roles at developer tools AI company. Applied AI ($175-275K) and SRE require Bay Area. Full Stack ($160-230K) is remote-friendly. All require US auth and AI tooling usage."
+    },
+    "CollegeVine": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack frontend-heavy product (TypeScript/React)",
+          "agentic AI product",
+          "Chrome extension engineering",
+          "early startup engineer who scaled"
+        ],
+        "accepted_backgrounds": [
+          "early startup engineers",
+          "product-minded full-stack engineers"
+        ],
+        "rejected_traits": [
+          "too junior",
+          "STEM OPT visa",
+          "payments/billing specialists",
+          "infra/DevOps",
+          "location preference for in-person without flexibility",
+          "founders without startup leadership depth",
+          "narrow feature work only"
+        ]
+      },
+      "other_signals": "STEM OPT is a blocker. Infra/DevOps profiles are not a fit.",
+      "summary": "CollegeVine wants senior full-stack product engineers (TypeScript/React) or agentic AI builders. STEM OPT visa blocker. Infra-only and junior profiles rejected."
+    },
+    "Doctronic": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack with 7+ YOE",
+          "production AI/ML with deployment"
+        ],
+        "accepted_backgrounds": [
+          "top 25 US schools or top Canadian universities"
+        ],
+        "rejected_traits": [
+          "<7 YOE",
+          "visa sponsorship needed",
+          "outside NYC",
+          "relocation required",
+          "comp expectations outside band",
+          "decision timeline <3 weeks"
+        ]
+      },
+      "other_signals": "Very strict: 7+ YOE, top 25 US school or top Canadian uni, NYC only (no relocation), no visa, hybrid Midtown Manhattan, 3-week minimum decision window.",
+      "summary": "Doctronic has strict gates: 7+ YOE, top-25 US or Canadian university, NYC-based, no visa sponsorship, hybrid Midtown. Very slow decision process (3+ weeks)."
+    },
+    "Endex": {
+      "period": "last 30 days",
+      "sentiment": "very positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML infra/GPU cluster",
+          "quant modeling with LLM",
+          "full-stack AI with evals",
+          "applied ML research (agentic)",
+          "backend/infra with production AI",
+          "founding engineer (0-to-1)",
+          "data pipelines"
+        ],
+        "accepted_backgrounds": [
+          "Jane Street",
+          "Two Sigma",
+          "Jump Trading",
+          "Palantir",
+          "Airtable",
+          "Scale AI",
+          "Tesla",
+          "Citadel"
+        ],
+        "rejected_traits": []
+      },
+      "other_signals": "13/13 candidates accepted \u2014 extremely high acceptance rate.",
+      "summary": "Endex has a 13/13 acceptance rate. Wants ML infra, quant modeling with LLM, founding engineers, and production AI builders. Jane Street, Two Sigma, Palantir, Airtable, Scale AI, and Citadel are top backgrounds."
+    },
+    "Epsilon Health": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML infra/platform (training, inference, GPU, model serving)",
+          "computer vision/perception/edge-deployed",
+          "LLM/AI systems (fine-tuning, RAG, agents)",
+          "CUDA/GPU optimization"
+        ],
+        "accepted_backgrounds": [
+          "Meta ML infra",
+          "Uber/Reddit/TikTok/Square",
+          "Cruise/Nuro",
+          "Verily/Genentech",
+          "ex-founders"
+        ],
+        "rejected_traits": [
+          "too junior",
+          "poor interview presence (low energy)",
+          "wrong domain",
+          "job-hopping",
+          "traditional medical imaging without modern ML"
+        ]
+      },
+      "other_signals": "Founder experience is a strong positive. Interview presence matters \u2014 low energy is a pass.",
+      "summary": "Epsilon Health wants ML infra/platform, computer vision, or LLM/AI systems engineers. Meta ML infra, Cruise/Nuro, Verily backgrounds strong. Junior and low-energy interview profiles rejected."
+    },
+    "Faction": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "platform systems engineering",
+          "distributed systems infra"
+        ],
+        "accepted_backgrounds": [],
+        "rejected_traits": [
+          "pure ML without systems/platform work",
+          "visa complications (possible sensitivity)"
+        ]
+      },
+      "other_signals": "No acceptances yet. Need platform play systems work, not pure ML. Possible visa sensitivity.",
+      "summary": "Faction has no acceptances yet. Looking for platform/systems engineers, not pure ML. Possible visa sensitivity noted."
+    },
+    "Factory": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "applied AI/ML with production deployment",
+          "agent orchestration + eval frameworks",
+          "backend infra at scale",
+          "fine-tuning pipelines",
+          "full-stack with strong backend"
+        ],
+        "accepted_backgrounds": [
+          "production AI/ML engineers",
+          "agent/eval framework builders"
+        ],
+        "rejected_traits": [
+          "finance/non-tech industry (Bloomberg)",
+          "founder/CEO seeking IC role",
+          "YC founder who left before batch completion",
+          "crypto/web3-heavy",
+          "generic backend without AI component"
+        ]
+      },
+      "other_signals": "Must have production AI/ML deployment. Founders seeking IC are rejected.",
+      "summary": "Factory wants production AI/ML engineers with agent orchestration, eval frameworks, or fine-tuning pipelines. Bloomberg finance, crypto-heavy, and generic backend profiles rejected."
+    },
+    "Finch Legal": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend-leaning full-stack",
+          "production ML/AI with deployment",
+          "engineering platform/infra"
+        ],
+        "accepted_backgrounds": [
+          "former founders/CTOs (raised $2M+)"
+        ],
+        "rejected_traits": [
+          "wrong ML specialization"
+        ]
+      },
+      "other_signals": "Former founders and CTOs who raised funding are a strong positive.",
+      "summary": "Finch Legal wants backend-leaning full-stack or production ML engineers. Former founders/CTOs who raised capital are highly valued."
+    },
+    "Flow Engineering": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack (React/Flask)",
+          "LLM/agentic systems",
+          "data infra (large-scale, 3PB/week)",
+          "product analytics"
+        ],
+        "accepted_backgrounds": [
+          "BCV-backed startup alumni",
+          "Aurora Innovation",
+          "Orbital Insight",
+          "physical world/hardware interest"
+        ],
+        "rejected_traits": []
+      },
+      "other_signals": "Prefers non-AI-native candidates with physical world/hardware interest, despite accepting AI backgrounds.",
+      "summary": "Flow Engineering accepts full-stack (React/Flask), LLM/agentic, and large-scale data infra engineers. Notably prefers physical world/hardware interest."
+    },
+    "Foam": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "TypeScript/JavaScript (Next.js)",
+          "LLM integration (Claude/Sonnet in production)",
+          "observability tooling/error monitoring",
+          "GitHub and Slack integrations",
+          "full-stack or infra for founding team"
+        ],
+        "accepted_backgrounds": [
+          "new grads (separate track exists)",
+          "experienced engineers comfortable with 0-to-1 founding environment"
+        ],
+        "rejected_traits": [
+          "remote-only candidates (5 days/week SF in-office is a hard requirement)"
+        ]
+      },
+      "other_signals": "$10M seed, Khosla Ventures backed. New grad and mid-senior hiring tracks. Strict 5-days/week SF office culture.",
+      "summary": "Foam (Khosla-backed AI observability startup) is hiring founding engineers at two levels. Strict 5-days/week SF in-office. TypeScript + LLM integration stack."
+    },
+    "Govwell": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "RedwoodJS, React, TypeScript, Node.js, GraphQL, PostgreSQL, AWS",
+          "LLMs, vector databases, retrieval systems",
+          "RAG (retrieval-augmented generation)",
+          "multi-agent orchestration"
+        ],
+        "accepted_backgrounds": [
+          "5+ years professional software/product engineering",
+          "high-growth startup experience",
+          "hands-on generative AI product development"
+        ],
+        "rejected_traits": [
+          "non-US work authorized (no sponsorship)",
+          "outside NYC metro or unwilling to relocate",
+          "cannot commit to hybrid 3+ days/week in-office"
+        ]
+      },
+      "other_signals": "NYC headquarters (Manhattan). Hybrid 3-5 days/week. $10M funded. Civic tech / government software mission.",
+      "summary": "GovWell wants a senior AI product engineer with RAG and multi-agent experience for government software. NYC hybrid, US work auth required."
+    },
+    "Gravity": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack with product ownership",
+          "zero-to-one product building"
+        ],
+        "accepted_backgrounds": [
+          "former founders"
+        ],
+        "rejected_traits": [
+          "exclusively large company without startup ownership",
+          "too junior (exceptional slope required for juniors)"
+        ]
+      },
+      "other_signals": "Former founders are a top signal. Junior candidates need exceptional trajectory.",
+      "summary": "Gravity wants full-stack engineers with product ownership and zero-to-one experience. Former founders are top picks. Large-company-only without startup ownership is a pass."
+    },
+    "HappyRobot": {
+      "period": "last 30 days",
+      "sentiment": "concerning",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "mid-senior full-stack engineering",
+          "frontend engineering"
+        ],
+        "accepted_backgrounds": [],
+        "rejected_traits": [
+          "backend/platform engineers (not what they need)"
+        ]
+      },
+      "other_signals": "Complete silence from client \u2014 concerning engagement. SF downtown in-office required. Previous submissions were wrong profile type.",
+      "summary": "HappyRobot needs mid-senior full-stack or frontend engineers, NOT backend/platform. SF downtown in-office required. Client has been unresponsive."
+    },
+    "Harmonic.ai": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Frontend Infra at Staff level",
+          "Full Stack Engineering"
+        ],
+        "accepted_backgrounds": [],
+        "rejected_traits": [
+          "iOS engineers (not hiring)",
+          "insufficient Staff-level depth",
+          "comp above $220K band"
+        ]
+      },
+      "other_signals": "$220K firm ceiling for Full Stack. Staff Frontend Infra and Full Stack only.",
+      "summary": "Harmonic.ai is hiring Staff-level Frontend Infra and Full Stack engineers only. $220K comp ceiling. iOS not needed."
+    },
+    "Instrumentl": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Python (FastAPI, Celery)",
+          "LLM systems, RAG pipelines, embeddings, agentic workflows",
+          "vector DBs (pgvector, Qdrant, Pinecone)",
+          "LangChain/LangGraph/LlamaIndex",
+          "Ruby on Rails (Engineering Lead role)",
+          "eval frameworks (Ragas, DeepEval)"
+        ],
+        "accepted_backgrounds": [
+          "5+ years SWE with 2+ years production LLM work (AI role)",
+          "7+ years with 2+ years technical leadership (Engineering Lead)",
+          "startup experience in high-autonomy environments"
+        ],
+        "rejected_traits": [
+          "non-US based",
+          "no production LLM/RAG experience for AI role",
+          "no Rails proficiency for Engineering Lead",
+          "no Pacific Time overlap"
+        ]
+      },
+      "other_signals": "2 roles: Senior AI/ML GenAI ($175-220K, remote US, PT overlap) and Engineering Lead ($175-220K, remote US, PT overlap, Rails primary). Both fully remote with optional Oakland office.",
+      "summary": "Instrumentl has 2 fully remote roles: Senior AI/ML GenAI ($175-220K, Python/RAG) and Engineering Lead ($175-220K, Rails primary, 7+ YOE). Both require US-based + PT overlap."
+    },
+    "Ironsite": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "computer vision/VLM",
+          "full-stack product-minded engineering",
+          "applied ML (OCR, safety systems)",
+          "platform + AI",
+          "research-to-production ML"
+        ],
+        "accepted_backgrounds": [
+          "xAI",
+          "Scale AI",
+          "Tesla",
+          "SpaceX",
+          "Discord",
+          "NASA/JPL",
+          "top program recent grads"
+        ],
+        "rejected_traits": []
+      },
+      "other_signals": "Recent grads from top programs are accepted. Comp: $180-200K base + ~0.5% equity.",
+      "summary": "Ironsite accepts computer vision/VLM, applied ML, and full-stack product engineers. xAI, Tesla, SpaceX, NASA/JPL backgrounds strong. Recent top-program grads also accepted."
+    },
+    "Listen Labs": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend infra + data pipeline at scale (Flink/Spark, 70TB/day)",
+          "AI infra + agentic systems (MCP platforms)",
+          "full-stack 0-to-1",
+          "voice AI/speech-to-speech"
+        ],
+        "accepted_backgrounds": [
+          "Apple Maps infra",
+          "Chime",
+          "Retool (early employee #10)",
+          "early-stage startups"
+        ],
+        "rejected_traits": [
+          "comp >$300K base or $600K+ TC",
+          "ML/Research Engineer title emphasis",
+          "PM roles (not hiring)",
+          "Contextual AI engineers",
+          "big company people without startup energy"
+        ]
+      },
+      "other_signals": "$300K base is a hard ceiling. Not hiring PMs. Contextual AI engineers specifically rejected.",
+      "summary": "Listen Labs wants backend infra/data pipeline at scale, AI infra/agentic, voice AI, or 0-to-1 full-stack engineers. $300K base ceiling. Big company profiles without startup drive rejected."
+    },
+    "Matter Intelligence": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "hyperspectral imaging/remote sensing",
+          "physics-informed ML (MODTRAN, radiative transfer)",
+          "production ML at scale (2K+ QPS)",
+          "large-scale ML infra",
+          "applied research with quant background"
+        ],
+        "accepted_backgrounds": [
+          "NASA/JPL-adjacent",
+          "Meta",
+          "SpaceX",
+          "Discord"
+        ],
+        "rejected_traits": [
+          "too junior",
+          "lack of domain physics/geospatial knowledge",
+          "short tenures without clear narrative",
+          "missing hard sciences background",
+          "remote-only preference"
+        ]
+      },
+      "other_signals": "ITAR constraints apply \u2014 citizenship matters. Deep domain physics or geospatial expertise required.",
+      "summary": "Matter Intelligence wants hyperspectral/remote sensing, physics-informed ML, or production ML at scale engineers. ITAR applies. NASA/JPL, SpaceX, Meta backgrounds strong."
+    },
+    "Nova Intelligence": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend infra/distributed systems",
+          "DevOps/dev tooling",
+          "release engineering"
+        ],
+        "accepted_backgrounds": [
+          "Google (5yr tenure)",
+          "Airbnb (pre-IPO)",
+          "Amazon",
+          "10+ YOE infra engineers"
+        ],
+        "rejected_traits": [
+          "can't communicate technical experience clearly",
+          "feels junior in presentation",
+          "Chinese/Russian/Iranian citizenship (ITAR/defense customers)"
+        ]
+      },
+      "other_signals": "ITAR/defense customers \u2014 citizenship restrictions (China, Russia, Iran excluded). O-1 visa preferred over H1B Build Fellowship.",
+      "summary": "Nova Intelligence wants 10+ YOE backend infra/distributed systems or DevOps engineers. ITAR applies \u2014 no Chinese/Russian/Iranian citizenship. Google, Airbnb (pre-IPO), Amazon backgrounds strong."
+    },
+    "Petra Security": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend full-stack with data systems",
+          "event ingestion pipelines",
+          "Microsoft Graph + security integrations (CrowdStrike/Okta)",
+          "observability/IaC (Terraform/AWS CDK)",
+          "ML as strengthening factor"
+        ],
+        "accepted_backgrounds": [
+          "founding engineer experience",
+          "8-10 YOE engineers"
+        ],
+        "rejected_traits": [
+          "excessive seniority (16+ YOE) \u2014 age mismatch with mid-late 20s founders"
+        ]
+      },
+      "other_signals": "Prefers 8-10 YOE \u2014 16+ YOE is too senior. 10-person team, 3 engineers, $5.5M revenue at seed. Fast process \u2014 onsite within 48 hours.",
+      "summary": "Petra Security wants founding-caliber 8-10 YOE backend engineers with security integrations (CrowdStrike/Okta/Microsoft Graph). 16+ YOE is too senior. Onsite within 48 hours."
+    },
+    "Porter": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "frontend engineering with strong design sensibility"
+        ],
+        "accepted_backgrounds": [
+          "engineers with public portfolios"
+        ],
+        "rejected_traits": [
+          "no public design portfolio (hard disqualifier for frontend)",
+          "enterprise-only work without visible public work"
+        ]
+      },
+      "other_signals": "Public design portfolio required for frontend roles \u2014 founder reviews portfolios directly.",
+      "summary": "Porter requires a public design portfolio for frontend roles. Founder reviews directly. Enterprise-only work without public visibility is a hard pass."
+    },
+    "Raindrop": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML platform/infra (training, inference, distributed systems)",
+          "backend/infra with production AI",
+          "GPU systems",
+          "LLM agents",
+          "distributed systems at massive scale (K8s, Ray, petabyte-scale)"
+        ],
+        "accepted_backgrounds": [
+          "Reddit (founding ML platform team)",
+          "Slack",
+          "Lyft",
+          "Anduril (<50 employees)",
+          "Character.ai",
+          "Airbnb",
+          "Uber",
+          "Google",
+          "ex-founders and early engineers"
+        ],
+        "rejected_traits": [
+          "too junior",
+          "short tenure/frequent role changes",
+          "consultancy without product building experience"
+        ]
+      },
+      "other_signals": "Reddit founding ML platform team is a top signal. Ex-founders and early employees (<50 headcount) strongly valued.",
+      "summary": "Raindrop wants ML platform/infra, GPU systems, or LLM agent engineers at petabyte scale. Reddit founding ML team, Anduril early employees, and ex-founders are strong."
+    },
+    "Reducto": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend + AI infra",
+          "platform with eBPF/runtime monitoring",
+          "full-stack AI/ML production LLM",
+          "founding PM with AI agent products"
+        ],
+        "accepted_backgrounds": [
+          "YC-backed company alumni",
+          "Amazon AI infra",
+          "Meta AI infra",
+          "Palantir AIP"
+        ],
+        "rejected_traits": [
+          "sparse GitHub profile",
+          "no promotion at Google (L4 stagnation after 5+ years)",
+          "timeline inconsistencies on resume",
+          "resume/LinkedIn discrepancies",
+          "pure infra without ML component"
+        ]
+      },
+      "other_signals": "GitHub activity is checked \u2014 sparse profiles are a red flag. Google L4 stagnation and resume inconsistencies matter.",
+      "summary": "Reducto wants backend + AI infra, eBPF/runtime platform, or production ML engineers. Amazon AI infra, Meta AI, Palantir AIP strong. GitHub reviewed \u2014 sparse activity is a red flag."
+    },
+    "Rilix": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend engineering",
+          "full-stack engineering"
+        ],
+        "accepted_backgrounds": [],
+        "rejected_traits": []
+      },
+      "other_signals": "Only 1 candidate submitted with no feedback. H1B sponsorship acceptable. $250-300K base. NYC with relocation supported.",
+      "summary": "Rilix has minimal signal data \u2014 only 1 submission. H1B sponsorship OK. $250-300K base. NYC with relocation supported."
+    },
+    "Rilla": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack with distributed systems",
+          "end-to-end API development for external customers",
+          "scaled real-time systems"
+        ],
+        "accepted_backgrounds": [
+          "Twitter/xAI Staff L7"
+        ],
+        "rejected_traits": [
+          "ML/AI engineering without customer-facing product experience",
+          "infra/distributed without product ownership",
+          "short stints",
+          "finance/quant without startup product experience",
+          "heavy backend without customer-facing features"
+        ]
+      },
+      "other_signals": "NOT currently hiring ML engineers despite listed search. Customer-facing product ownership required. Twitter/xAI Staff L7 is a strong signal.",
+      "summary": "Rilla wants full-stack engineers with customer-facing API experience and distributed systems. NOT hiring ML engineers. Customer-facing product ownership required."
+    },
+    "Rillet": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "platform engineering/infra at scale (K8s, distributed, multi-cloud)",
+          "applied AI/ML infra (LLM agents, MLOps)",
+          "PM with AI product ownership (Copilot/LLM-native)",
+          "backend/platform with data platforms"
+        ],
+        "accepted_backgrounds": [
+          "Meta",
+          "Square/Block",
+          "Zendesk",
+          "Pinecone",
+          "Netflix",
+          "Affirm",
+          "founding/early employees (#3, #15)"
+        ],
+        "rejected_traits": [
+          "too junior (<5 YOE for Staff+ roles)",
+          "job-hopping (8/11 jobs <2 years)",
+          "no clear technical spike",
+          "mid-level candidates (paused)"
+        ]
+      },
+      "other_signals": "Staff+ only \u2014 mid-level is paused. SF/NYC only (no remote). Founding/early employee experience highly valued.",
+      "summary": "Rillet is Staff+ only (mid-level paused). Wants platform/infra at scale, LLM agents, or AI PM. SF/NYC only. Meta, Square/Block, Affirm, and early-stage founding employees are strong."
+    },
+    "Salient": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "ML/recommendations at Instagram scale",
+          "backend infra at petabyte scale (20PB+)",
+          "high-performance systems (zero-copy inference, Rust autoscaling)",
+          "0-to-1 internal tools with company-wide adoption"
+        ],
+        "accepted_backgrounds": [
+          "Meta/Instagram ML",
+          "Box data infra",
+          "Hive",
+          "Airbnb"
+        ],
+        "rejected_traits": [
+          "junior scope perception",
+          "L4 at Google after 5 years (career stagnation)",
+          "research without applied engineering",
+          "early-stage only without tier-1 experience",
+          "voice AI without broader depth",
+          "data platform without AI component",
+          "PM/hybrid roles"
+        ]
+      },
+      "other_signals": "Instagram/Meta ML at scale is a top signal. Google L4 stagnation is a red flag.",
+      "summary": "Salient wants ML/recs at Instagram scale, petabyte-scale backend infra, or high-performance systems engineers. Meta/Instagram ML is a top signal. Google L4 stagnation and research-only rejected."
+    },
+    "Serval": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend-heavy full-stack with ML/production AI",
+          "distributed systems infra (Go)",
+          "design engineering with frontend ownership"
+        ],
+        "accepted_backgrounds": [
+          "DoorDash E5",
+          "AWS",
+          "Pure Storage",
+          "Uniswap/Optimism",
+          "UC Berkeley CS"
+        ],
+        "rejected_traits": [
+          "non-CS degrees",
+          "short tenures",
+          "pure big-tech without 0-to-1 experience",
+          "crypto-heavy",
+          "not open to FDE/customer-facing work",
+          "weak differentiation"
+        ]
+      },
+      "other_signals": "CS degree required. 0-to-1 experience important. Crypto-heavy is a pass. FDE/customer-facing openness required.",
+      "summary": "Serval wants backend-heavy full-stack, distributed systems (Go), or design engineers. CS degree required. DoorDash E5, AWS, UC Berkeley CS strong. Crypto-heavy and no 0-to-1 experience rejected."
+    },
+    "Stuut": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "distributed systems/backend (Pinterest IC6, Meta scale)",
+          "FDE with customer-facing enterprise deployments",
+          "agentic AI/applied AI",
+          "voice AI + ML",
+          "end-to-end platform/data systems",
+          "ML infra/experimentation"
+        ],
+        "accepted_backgrounds": [
+          "Pinterest IC6",
+          "Meta (large scale)",
+          "Rime Labs (early employee, #1 TTS model)",
+          "early-stage startups"
+        ],
+        "rejected_traits": [
+          "too junior (F-1 OPT, $90K base expectations)",
+          "platform-heavy from 1K+ employee companies",
+          "domain mismatch (health ML)"
+        ]
+      },
+      "other_signals": "Urgency on voice tech candidates. Comp range $150-220K. Rime Labs early employees are a top signal.",
+      "summary": "Stuut urgently wants voice AI/ML and distributed systems engineers. Pinterest IC6, Meta-scale, and Rime Labs early employees strong. Too junior and big-company-only platform profiles rejected. $150-220K comp."
+    },
+    "Substrate": {
+      "period": "last 30 days",
+      "sentiment": "neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "product-oriented engineering with UI/design sensibility",
+          "fintech platform engineering"
+        ],
+        "accepted_backgrounds": [],
+        "rejected_traits": [
+          "insufficient UI/product design experience",
+          "high comp expectations for junior role",
+          "infra-only fintech engineers"
+        ]
+      },
+      "other_signals": "Wants product-oriented engineers with UI/design sensibility. Infra-only fintech profiles are not a fit.",
+      "summary": "Substrate wants product-oriented engineers with UI/design sensibility. Infra-only fintech profiles rejected. Limited signal data."
+    },
+    "The Bot Company": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "distributed GPU training infra (20K+ GPUs)",
+          "ML training platform (LLM/VLM/DiT/MoE)",
+          "research engineering with foundation model training",
+          "founding engineer with agent foundations + evals"
+        ],
+        "accepted_backgrounds": [
+          "ByteDance Senior Staff",
+          "AWS Staff SageMaker",
+          "Databricks Staff",
+          "Tsinghua Yao Class",
+          "IIT",
+          "CVPR/IJCAI publications"
+        ],
+        "rejected_traits": [
+          "recommendation systems specialists",
+          "Instagram/Meta ranking/feeds engineers",
+          "applied AI/agentic without deep model training (inference/post-training only)"
+        ]
+      },
+      "other_signals": "Extremely narrow \u2014 large-scale GPU training infra and foundation model training only. Tsinghua Yao Class and top-tier publications are strong signals.",
+      "summary": "The Bot Company wants large-scale GPU training infra (20K+ GPUs) and foundation model training engineers. ByteDance Staff, Databricks Staff, Tsinghua Yao Class strong. Recs/ranking and inference-only rejected."
+    },
+    "Titan": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "full-stack product engineering",
+          "blockchain/crypto infra",
+          "DevOps/customer-facing",
+          "AI/LLM application layer"
+        ],
+        "accepted_backgrounds": [
+          "ex-founders/co-founders (Sequoia/Dragonfly-backed)",
+          "Stanford dropout",
+          "crypto-native engineers"
+        ],
+        "rejected_traits": [
+          "pure quant/financial without AI engineering",
+          "recent/upcoming grads",
+          "big-tech without startup/founding experience",
+          "ML research from finance",
+          "infra/backend without AI-native component",
+          "pure recommendations ML",
+          "enterprise/legacy full-stack"
+        ]
+      },
+      "other_signals": "S&O search paused. Ex-founders (especially Sequoia/Dragonfly-backed) are a top signal.",
+      "summary": "Titan wants full-stack product, blockchain/crypto infra, or AI/LLM application layer engineers. Ex-founders (Sequoia/Dragonfly-backed) are top picks. S&O search paused."
+    },
+    "TollBit": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "backend-heavy full-stack with distributed systems (Kafka, event-driven)",
+          "platform/infra (K8s, AWS/GCP)",
+          "production systems at scale (DB migration, multi-shard)",
+          "security/observability"
+        ],
+        "accepted_backgrounds": [
+          "Turo",
+          "Gemini",
+          "Rye",
+          "Lyft",
+          "Slack"
+        ],
+        "rejected_traits": [
+          "frontend-heavy",
+          "too junior",
+          "large company without startup motivation",
+          "short tenure patterns",
+          "architect/ML-specialist roles",
+          "lack of product mindedness"
+        ]
+      },
+      "other_signals": "NO meaningful ML/AI work currently \u2014 need backend generalists, not ML specialists.",
+      "summary": "TollBit needs backend-heavy full-stack engineers with distributed systems and platform/infra experience. NOT hiring ML/AI specialists. Turo, Gemini, Lyft, Slack backgrounds strong."
+    },
+    "Valon": {
+      "period": "last 30 days",
+      "sentiment": "very positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "AI/LLM infra (RAG, agentic workflows, model gateways)",
+          "cloud infra + K8s (multi-cloud)",
+          "large-scale distributed systems",
+          "DevOps/SRE observability",
+          "0-to-1 platform builds"
+        ],
+        "accepted_backgrounds": [
+          "Amazon (Alexa founding team)",
+          "Meta",
+          "TikTok",
+          "Uber",
+          "Quora",
+          "Anyscale",
+          "Illumio",
+          "Citadel"
+        ],
+        "rejected_traits": []
+      },
+      "other_signals": "Staff+ (14-20+ YOE). Premium comp: $300K base + $1.1M equity/4yr. Remote-first. H1B transfers OK.",
+      "summary": "Valon is a very strong client \u2014 wants Staff+ (14-20+ YOE) AI/LLM infra, cloud infra, or distributed systems engineers. Amazon Alexa founding team, Meta, TikTok, Uber top backgrounds. Remote-first, premium comp."
+    },
+    "Vapi": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "infra at massive scale (trillions of requests, exabytes/day)",
+          "ML infra/production ML systems (safety classifiers, reward models, LLM fine-tuning, vector search)",
+          "distributed systems + K8s",
+          "real-time stateful workloads"
+        ],
+        "accepted_backgrounds": [
+          "Meta Reality Labs/Storage Node",
+          "Character.ai",
+          "Airbnb",
+          "Uber",
+          "Amazon"
+        ],
+        "rejected_traits": [
+          "career stagnation without promotions",
+          "junior even with strong credentials (failed take-home)",
+          "PM below Staff/Principal level"
+        ]
+      },
+      "other_signals": "Take-home as initial filter. 80+ hour weeks minimum \u2014 culture fit question.",
+      "summary": "Vapi wants massive-scale infra engineers and production ML systems engineers. Take-home filter, 80+ hour week culture. Meta Reality Labs, Character.ai, Airbnb backgrounds strong. Career stagnation is a hard pass."
+    },
+    "Vercel": {
+      "period": "last 30 days",
+      "sentiment": "positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "AI platform engineering with production LLM",
+          "backend microservices at scale",
+          "AI/LLM safety + eval (patent-depth)",
+          "full-stack with strong backend primary"
+        ],
+        "accepted_backgrounds": [
+          "Atlassian (4yr+ tenure)"
+        ],
+        "rejected_traits": [
+          "short stints (even if layoff)",
+          "junior engineers",
+          "remote-only preference (hybrid SF/NYC required)",
+          "Block/Square backgrounds (oversaturated)",
+          "weak earlier career pedigree",
+          "culture-mismatch narrative"
+        ]
+      },
+      "other_signals": "Very particular culture. Block/Square backgrounds are oversaturated. Hybrid SF/NYC required.",
+      "summary": "Vercel wants production AI platform, backend microservices, or LLM safety/eval engineers. Hybrid SF/NYC required. Very particular culture \u2014 short stints, Block/Square, and junior profiles rejected."
+    },
+    "D.E. Shaw Research": {
+      "period": "2026-05-10 to 2026-05-17",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "LLM research engineering with pre-training, post-training, and evals experience",
+          "Production-oriented agentic system development and deployment",
+          "Multimodal LLM backgrounds",
+          "AI agent infrastructure and harness engineering",
+          "RAG and agent evaluation frameworks",
+          "Physics/advanced science research backgrounds (PhD caliber)"
+        ],
+        "accepted_backgrounds": [
+          "Strong academic credentials from top institutions (MIT, Princeton, Stanford, Caltech)",
+          "Published research with Google Scholar presence",
+          "Experience at Anthropic, Palantir, Airtable, Quora, Amazon Alexa, Snorkel AI caliber companies",
+          "Advanced degrees (MS/PhD) especially in ML, physics, or related fields",
+          "Early-stage company engineers who scaled with the team",
+          "Product-minded engineers with founding team or early employee experience"
+        ],
+        "rejected_traits": [
+          "No explicit rejections documented yet \u2014 search is early stage",
+          "Candidates who cannot or will not relocate to NYC (relocation support is available but in-person is non-negotiable)"
+        ]
+      },
+      "other_signals": "Cash comp $300\u2013800K range. Placement fees capped at $1M. Agentic AI team is only 2 FT members + interim lead \u2014 high urgency to grow to 5+. ML/cheminformatics researcher for small molecule property prediction is 'current top ML hiring priority.' State-of-the-art GPU clusters + Anton supercomputers = major selling point rivaling frontier labs. Hybrid 3x/week (Tues\u2013Thurs). Generous relocation support for NYC friction. ALWAYS clarify upfront: this is NOT the D.E. Shaw hedge fund.",
+      "summary": "D.E. Shaw Research wants elite LLM research engineers and agentic AI engineers who have shipped production-grade systems. Academic credentials and research pedigree matter. NYC relocation is the key friction \u2014 counter with exceptional cash comp and compute resources. Clarify it's not the hedge fund on every pitch."
+    },
+    "Citizen Health": {
+      "period": "2026-05-11 to 2026-05-17",
+      "sentiment": "Very Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Agentic AI systems and LLM workflows",
+          "Applied AI/ML infrastructure (vs. pure research or traditional ML)",
+          "Multimodal AI systems and RAG pipelines",
+          "Backend/infrastructure with AI integration experience",
+          "Research-oriented engineering (translating research to product)",
+          "Production AI/LLM systems and workflow orchestration (Temporal)",
+          "0\u21921 product building with rapid iteration"
+        ],
+        "accepted_backgrounds": [
+          "Former founders and CTOs with 0\u21921 experience",
+          "Founding engineers who joined at seed/pre-seed",
+          "Engineers who actively built AI projects in last 12 months",
+          "Research background with production engineering skills",
+          "Healthcare/mission-driven previous experience",
+          "Early employees at successful companies (employee #3, #11 caliber)",
+          "Engineers who remain hands-on/IC-focused despite seniority"
+        ],
+        "rejected_traits": [
+          "Insufficient overall experience (4.5 years felt 'light')",
+          "Short tenures without compelling reasons (~1 year stints)",
+          "Traditional ML without recent AI/LLM depth",
+          "Lack of independent AI building/exploration",
+          "Remote-only candidates unwilling to travel to SF",
+          "Frontend-only engineers without AI experience",
+          "Pure ML/research background without LLM/agentic systems experience",
+          "Candidates from non-state-of-the-art AI organizations"
+        ]
+      },
+      "other_signals": "Farid (CEO) personally screens all candidates \u2014 no delegation. 18 submissions, 15 accepted last 90 days. Multiple strong candidates have 3-week decision timelines with competing offers \u2014 move fast. H1B transfers not a barrier. Comp is flexible for the right profiles, willing to match market. Candidates competing with Katalyze. 11 CL recruiters added to channel on 4/30 \u2014 ramped-up search effort.",
+      "summary": "Citizen Health is the best-converting active client. Farid screens everything personally. They want AI-native builders with founding/0\u21921 experience, LLM/agentic depth, and ideally healthcare passion. Traditional ML and short tenures are hard nos. Move fast \u2014 top candidates have compressed timelines."
+    },
+    "Catalyst": {
+      "period": "2026-05-01 to 2026-05-17",
+      "sentiment": "Positive",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Senior to staff-level full-stack, backend, or AI engineering",
+          "Experience shipping agentic systems with complex execution paths",
+          "Strong CS fundamentals and systems design ability",
+          "Crypto/on-chain infrastructure or fintech engineering"
+        ],
+        "accepted_backgrounds": [
+          "TT5 caliber engineers from Ramp, Palantir, Cursor, Jump Trading, or similar talent-dense environments",
+          "Risk-seeking builders who have joined very early-stage teams",
+          "Engineers who can set the bar for engineering quality without hand-holding",
+          "5+ years of experience (under 5 is hard unless from uniquely high-caliber background)"
+        ],
+        "rejected_traits": [
+          "Lifestyle engineers or candidates seeking work-life balance \u2014 this is an intense early-stage environment",
+          "Engineers who need a fully defined product to build toward",
+          "Candidates unwilling or unable to relocate to Palo Alto (or at least SF Bay)"
+        ]
+      },
+      "other_signals": "$20M seed at $300M+ valuation, Sequoia + Jump Trading. Jump is not just an investor \u2014 potential institutional user and collaborator. Team is 4 people total; next hires will help define the product. Founders: JZ (early WorldCoin / Sam Altman) + Dylan Iskandar (Stanford dropout, ran own prop shop). O-1 visa support available. Open to relocation, housing, food support for exceptional candidates.",
+      "summary": "Catalyst needs true TT5 risk-takers who thrive in ambiguity. Pitch as the 'Cursor moment for personal finance.' The intensity is real \u2014 frame it as early-Cursor culture, not forced grind. Jump Trading institutional interest is a major signal for credibility."
+    },
+    "Nexon": {
+      "period": "2026-05-01 to 2026-05-17",
+      "sentiment": "Neutral",
+      "hiring_signals": {
+        "accepted_skillsets": [
+          "Backend engineering with complex systems (multi-minute task executions, API-focused products)",
+          "Research engineering focused on computer-use / vision models for legacy enterprise apps",
+          "Strong ML background (NLP, classical ML, or vision acceptable) for research role",
+          "Math fluency to understand ML papers and reason about inference timing/scaling",
+          "Systems-level thinking even in an AI-native coding world"
+        ],
+        "accepted_backgrounds": [
+          "High-slope engineers prioritized over high-intercept \u2014 slope over intercept philosophy",
+          "Math/research competition backgrounds or non-obvious high-horsepower profiles",
+          "Engineers who care deeply about fundamentals even when using AI coding tools",
+          "SF-based or willing to work in-office 5x/week in SF"
+        ],
+        "rejected_traits": [
+          "Engineers who rely primarily on AI coding tools without deep engineering judgment",
+          "Remote-only candidates (5x/week in SF is non-negotiable)",
+          "Healthcare domain experience is NOT required \u2014 don't filter for it"
+        ]
+      },
+      "other_signals": "Comp up to ~$275K salary + meaningful equity. Cannot use Anthropic/Gemini off-shelf due to PHI/on-prem/cost constraints \u2014 building custom small vision models. Company is ~6 months old with few hundred K ARR. Shashwat (Harvard CS, sold Dorsal to Commure) + Meera (Apple healthcare data, Stanford MS/BS). 8VC seed. No submissions yet \u2014 search just launched.",
+      "summary": "Nexon wants raw intellect over domain expertise. Cast wide \u2014 young candidates, math backgrounds, non-obvious profiles all relevant if they show rigor. The technical challenge is building custom computer-use vision models under real production constraints (PHI, on-prem, latency). 5x/week SF in-office is non-negotiable."
+    }
+  }
+}

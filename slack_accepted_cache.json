@@ -1,0 +1,865 @@
+{
+  "last_updated": "2026-04-25T00:00:00Z",
+  "_note": "Accepted candidates (white_check_mark) scraped from Slack submission channels. Last 30 days only. Read-only.",
+  "companies": {
+    "AfterQuery": {
+      "channel_id": "C09LEL23B7F",
+      "channel_name": "candidatelabs-afterquery-engineers",
+      "accepted_candidates": [
+        "Aqdas Imran",
+        "Mathusan Selvarajah",
+        "Mory Elsaify",
+        "Srinivas Lade",
+        "Daniel Strizhevksy",
+        "Julian Allchin",
+        "Aengus McGuinness",
+        "Riad El Mahmoudy",
+        "Jackson Hassell",
+        "Ishan Kaul"
+      ]
+    },
+    "Agave": {
+      "channel_id": "C058BDYRUQ4",
+      "channel_name": "candidatelabs-agave-engineering",
+      "accepted_candidates": [
+        "Pranav Turlapati",
+        "Mykhailo Ivaniuk",
+        "Pranav Meraga"
+      ]
+    },
+    "Altara": {
+      "channel_id": "C0AH6KG1CGY",
+      "channel_name": "candidatelabs-altara-engineers",
+      "accepted_candidates": [
+        "Elaheh Ahmadi",
+        "Win Aung",
+        "Arthur (Shengya) Huang",
+        "Salar Jafarlou",
+        "Aniruddha Murali",
+        "Ryan Prinster",
+        "Akash Vemulapalli",
+        "Ammar Siddiqui"
+      ]
+    },
+    "Andera": {
+      "channel_id": "C0ALF7TCLTT",
+      "channel_name": "candidatelabs-andera-engineers",
+      "accepted_candidates": [
+        "Gaurav Agarwal",
+        "Abrar Rahman",
+        "Mohammad Rafiee"
+      ]
+    },
+    "Antes AI": {
+      "channel_id": "C090HNJA2DP",
+      "channel_name": "candidatelabs-antes-engineers",
+      "accepted_candidates": [
+        "Reet Nandy",
+        "Ryan Prinster",
+        "Neha Konakalla"
+      ]
+    },
+    "Ashler": {
+      "channel_id": "C0A37QPQYBT",
+      "channel_name": "candidatelabs-ashler-engineers",
+      "accepted_candidates": [
+        "William Shabecoff",
+        "Yifei Huang",
+        "Mory Elsaify",
+        "Gaurav Agarwal"
+      ]
+    },
+    "Assured": {
+      "channel_id": "C09EJSL50H0",
+      "channel_name": "candidatelabs-assured-engineers",
+      "accepted_candidates": [
+        "Damon Hastings",
+        "Yifei Huang",
+        "Anh-Thu Huynh"
+      ]
+    },
+    "Auctor": {
+      "channel_id": "C0968TSK04D",
+      "channel_name": "candidatelabs-auctor-engineers",
+      "accepted_candidates": [
+        "Catherine Lai",
+        "Vishu Agarwal",
+        "Adam Achebe"
+      ]
+    },
+    "Brellium": {
+      "channel_id": "C0AA0BCV2TV",
+      "channel_name": "candidatelabs-brellium-engineers",
+      "accepted_candidates": [
+        "Rohan Mishra",
+        "Jose Vargas",
+        "Yazen Shunnar",
+        "Veronica Burnham",
+        "Isabella Teng"
+      ]
+    },
+    "Canals": {
+      "channel_id": "C08MC6N1VS7",
+      "channel_name": "candidatelabs-canals-engineers",
+      "accepted_candidates": [
+        "Sam Seyfollahi",
+        "Ryan Black",
+        "Nick Nagy",
+        "Justin Zwick",
+        "Harris Lynch",
+        "Zach Bodensteiner",
+        "Alex Jolicoeur",
+        "Mark Hamilton",
+        "Trevor Jung",
+        "Colter Spearsmith",
+        "Osasu Eboh",
+        "Justina Easow",
+        "Tina Roh",
+        "Yen Su",
+        "Hynek Jemelik"
+      ]
+    },
+    "Causal Labs": {
+      "channel_id": "C08590NJUT1",
+      "channel_name": "candidatelabs-causal-labs-climatix-engineers",
+      "accepted_candidates": [
+        "Benson Chen",
+        "Vinay Varma",
+        "Kenar Vyas"
+      ]
+    },
+    "Cleric": {
+      "channel_id": "C0AEU03EG5R",
+      "channel_name": "candidatelabs-cleric-engineers",
+      "accepted_candidates": [
+        "Miran Park",
+        "James Huang",
+        "Taj Shaik"
+      ]
+    },
+    "CodeRabbit": {
+      "channel_id": "C09C38ZP80L",
+      "channel_name": "candidatelabs-coderabbit-engineers",
+      "accepted_candidates": [
+        "Matt Cannizzaro",
+        "Dennis Wong",
+        "Jeremie Boudreau",
+        "Manjiri Tapaswi",
+        "Kartikey Bharti",
+        "Julia Yan",
+        "Salima Fassil",
+        "Akhil Pandey",
+        "Jialin Jiao",
+        "Parris Khachi",
+        "Gaurav Agarwal",
+        "Erica Kong",
+        "Taj Shaik"
+      ]
+    },
+    "CollegeVine": {
+      "channel_id": "C09FF5RALBD",
+      "channel_name": "candidatelabs-collegevine-engineers",
+      "accepted_candidates": [
+        "Zachary Bruno",
+        "Lianne Haug",
+        "DiAndre Ruiz",
+        "Tracy Burge",
+        "Harris Lynch",
+        "Xi Cheng",
+        "Joseph Lane",
+        "David Ding",
+        "Hynek Jemelik"
+      ]
+    },
+    "Conduit": {
+      "channel_id": "C09FH0BHGH3",
+      "channel_name": "candidatelabs-conduit-engineers",
+      "accepted_candidates": []
+    },
+    "Context": {
+      "channel_id": "C08N7604K6X",
+      "channel_name": "candidatelabs-context-engineers",
+      "accepted_candidates": [
+        "Pranav Meraga",
+        "Pranav Turlapati",
+        "Reet Nandy"
+      ]
+    },
+    "Conveyor": {
+      "channel_id": "C09120ZRH99",
+      "channel_name": "candidatelabs-conveyor-engineers",
+      "accepted_candidates": []
+    },
+    "CopilotKit": {
+      "channel_id": "C08QAHZM8RE",
+      "channel_name": "candidatelabs-copilotkit-engineers",
+      "accepted_candidates": [
+        "Elizabeth Schafle"
+      ]
+    },
+    "Corda": {
+      "channel_id": "C0A9AM10AUA",
+      "channel_name": "candidatelabs-corda-engineers",
+      "accepted_candidates": [
+        "Win Aung",
+        "Konstantin Rud",
+        "Abrar Rahman",
+        "Miran Park",
+        "Bhaulik Patel",
+        "Taj Shaik"
+      ]
+    },
+    "Create.xyz": {
+      "channel_id": "C08420FRAG3",
+      "channel_name": "candidatelabs-create-anything-engineers",
+      "accepted_candidates": [
+        "Manjiri Tapaswi"
+      ]
+    },
+    "Credal": {
+      "channel_id": "C07T86Z5WP5",
+      "channel_name": "candidatelabs-credal-engineers",
+      "accepted_candidates": [
+        "Rohith Vootla",
+        "David Froneberger"
+      ]
+    },
+    "Crosby": {
+      "channel_id": "C09CAPK4E76",
+      "channel_name": "candidatelabs-crosby-legal-engineers",
+      "accepted_candidates": [
+        "Veronica Burnham"
+      ]
+    },
+    "Cursor": {
+      "channel_id": "C095YC6FUTD",
+      "channel_name": "candidatelabs-cursor-field-engineers",
+      "accepted_candidates": [
+        "Eddie Hou",
+        "Anusha Acharya",
+        "Amaury Oliver de Guillebon",
+        "Neha Konakalla",
+        "Anand Nanduri",
+        "Lukas Andersen",
+        "Ilja Herdt",
+        "Alex Sjoman",
+        "Gordon Lim",
+        "Sanket Shah",
+        "Tae Hoon Kim",
+        "Komal Dewan"
+      ]
+    },
+    "Daylight Energy": {
+      "channel_id": "C0979RHSS4E",
+      "channel_name": "candidatelabs-daylight-engineers",
+      "accepted_candidates": [
+        "Carlos Reyes"
+      ]
+    },
+    "Deeptune": {
+      "channel_id": "C0A3LDNG6KV",
+      "channel_name": "candidatelabs-deeptune-engineers",
+      "accepted_candidates": [
+        "Jingjing Bai",
+        "Abhitha Vegi",
+        "Almutwakel Hassan",
+        "Yifei Huang",
+        "Andy Zhang",
+        "Hajir Roozbehani",
+        "Jing Gu"
+      ]
+    },
+    "Doctronic": {
+      "channel_id": "C09BNBVVAKC",
+      "channel_name": "candidatelabs-doctronic-engineers",
+      "accepted_candidates": []
+    },
+    "Eagle": {
+      "channel_id": "C09RAREF38S",
+      "channel_name": "candidatelabs-eagle-engineers",
+      "accepted_candidates": [
+        "Premika Pandian",
+        "Pranav Meraga",
+        "Pranav Turlapati",
+        "Yu Zhao",
+        "Matt Lee",
+        "Yifei Huang",
+        "DiAndre Ruiz",
+        "Reet Nandy",
+        "Mingchun Fan",
+        "Abrar Rahman"
+      ]
+    },
+    "EliseAI": {
+      "channel_id": "C0AEJ16CU1Y",
+      "channel_name": "candidatelabs-eliseai-engineers",
+      "accepted_candidates": [
+        "Pratik Mulchandani",
+        "Maria Izzi",
+        "Bradley Yoo",
+        "Veronica Burnham",
+        "Premika Pandian",
+        "Eddie Tu"
+      ]
+    },
+    "Endeavor": {
+      "channel_id": "C0A14MB75QT",
+      "channel_name": "candidatelabs-endeavor-engineers",
+      "accepted_candidates": []
+    },
+    "Epsilon": {
+      "channel_id": "C0A3U0RN7DM",
+      "channel_name": "candidatelabs-epsilon-engineers",
+      "accepted_candidates": [
+        "Hengruo Zhang",
+        "Sidharth Padhee",
+        "Besir Kurtulmus",
+        "Suhyun Kim",
+        "Ajaya H S Rao",
+        "Sergey Leshchenko",
+        "Ayush Singla",
+        "Olivier Cantin",
+        "Anjali Chourdia"
+      ]
+    },
+    "Factory": {
+      "channel_id": "C08RNN8LV8C",
+      "channel_name": "candidatelabs-factory-customer-eng",
+      "accepted_candidates": [
+        "Tapan Shah",
+        "Krish Kapoor",
+        "Mathusan Selvarajah",
+        "Kelsey Lam",
+        "Parker Jou",
+        "Jonathan Wang",
+        "Rishabh Narang",
+        "Richard Hu",
+        "Edward Cai",
+        "Eddie Hou",
+        "Nikita Bhargava",
+        "Sajal Garg",
+        "Yariv Kaynan",
+        "Ryan Prinster",
+        "Nikhil Khandekar",
+        "Dallin Romney",
+        "Aneesh Simha",
+        "Aniruddha Murali",
+        "Minkai Li",
+        "Brian Ton",
+        "James Huang",
+        "Anthony Tao",
+        "Bharadwaj Rallabhandi",
+        "Andrew Park"
+      ]
+    },
+    "Finch Legal": {
+      "channel_id": "C08EGAE25DX",
+      "channel_name": "candidatelabs-finch-legal-engineers",
+      "accepted_candidates": [
+        "Anuj Vasil",
+        "Bhav Bhela",
+        "Veronica Burnham",
+        "Isabella Teng"
+      ]
+    },
+    "Flow Engineering": {
+      "channel_id": "C0954P4F7CH",
+      "channel_name": "candidatelabs-flow-engineering-engineers",
+      "accepted_candidates": [
+        "Seth Walker",
+        "Syed Mustafa"
+      ]
+    },
+    "Flowmode": {
+      "channel_id": "C0AA83LK05B",
+      "channel_name": "candidatelabs-flowmode-engineers",
+      "accepted_candidates": []
+    },
+    "Foam": {
+      "channel_id": "C09RJ3LRQ14",
+      "channel_name": "candidatelabs-foam-engineers",
+      "accepted_candidates": [
+        "Minkai Li",
+        "Brian Ton",
+        "Yaming Lin",
+        "Taj Shaik"
+      ]
+    },
+    "Fragment Data": {
+      "channel_id": "C0A2RGSF6AV",
+      "channel_name": "candidatelabs-fragment-data-engineers",
+      "accepted_candidates": [
+        "Varun Shah",
+        "Reet Nandy"
+      ]
+    },
+    "Govwell": {
+      "channel_id": "C09C2SMMPK2",
+      "channel_name": "candidatelabs-govwell-engineers",
+      "accepted_candidates": []
+    },
+    "Graphite": {
+      "channel_id": "C08G89YBX9S",
+      "channel_name": "candidatelabs-graphite-engineers",
+      "accepted_candidates": [
+        "Tapan Shah",
+        "Mathusan Selvarajah",
+        "Pratik Mulchandani",
+        "Erica Kong"
+      ]
+    },
+    "HappyRobot": {
+      "channel_id": "C08ESHUD6HW",
+      "channel_name": "candidatelabs-happyrobot-engineers",
+      "accepted_candidates": []
+    },
+    "Harmonic.ai": {
+      "channel_id": "C064N5HD0P9",
+      "channel_name": "candidatelabs-harmonic",
+      "accepted_candidates": []
+    },
+    "Hedra": {
+      "channel_id": "C08QLQSTQ9X",
+      "channel_name": "candidatelabs-hedra-engineers",
+      "accepted_candidates": []
+    },
+    "HoneyHive": {
+      "channel_id": "C060WHDCCEN",
+      "channel_name": "candidatelabs-honeyhive-engineers",
+      "accepted_candidates": []
+    },
+    "Instrumentl": {
+      "channel_id": "C08H85UJ8GM",
+      "channel_name": "candidatelabs-instrumentl-engineers",
+      "accepted_candidates": [
+        "Lianne Haug",
+        "Brian Tan"
+      ]
+    },
+    "Ironsite": {
+      "channel_id": "C092TM69JUX",
+      "channel_name": "candidatelabs-ironsite-engineers",
+      "accepted_candidates": [
+        "Sujay Nair",
+        "Pranav Meraga",
+        "Sandeep Salwan",
+        "Yi Duan",
+        "Jing Gu",
+        "Iris Qu",
+        "Aengus McGuinness"
+      ]
+    },
+    "January": {
+      "channel_id": "C09N613CYVA",
+      "channel_name": "candidatelabs-january-engineers",
+      "accepted_candidates": [
+        "Anuj Vasil",
+        "Paul Le",
+        "Yifei Huang",
+        "Anand Nanduri",
+        "William Yu",
+        "Xuankai Chen"
+      ]
+    },
+    "Klarity": {
+      "channel_id": "C0ALUALQ8CQ",
+      "channel_name": "candidatelabs-klarity-engineers",
+      "accepted_candidates": [
+        "Rishi Surana",
+        "Manjiri Tapaswi",
+        "Harshini Venkataraman",
+        "How Jing",
+        "Anshuman Mishra",
+        "Bharadwaj Rallabhandi",
+        "Akash Vemulapalli"
+      ]
+    },
+    "Knit": {
+      "channel_id": "C0A26B65LLW",
+      "channel_name": "candidatelabs-knit-engineers",
+      "accepted_candidates": [
+        "Jose Vargas",
+        "Paul Le",
+        "Abhi Mandal",
+        "Guan (Jude) Wang",
+        "Ram Raghunathan",
+        "Anh-Thu Huynh",
+        "Komal Dewan"
+      ]
+    },
+    "Levit": {
+      "channel_id": "C0990D83K3M",
+      "channel_name": "candidatelabs-levit-engineers",
+      "accepted_candidates": [
+        "Ajaya H S Rao",
+        "Sergey Leshchenko",
+        "Arthur (Shengya) Huang"
+      ]
+    },
+    "Listen Labs": {
+      "channel_id": "C09AX3MKV7U",
+      "channel_name": "candidatelabs-listenlabs-engineers",
+      "accepted_candidates": [
+        "Dennis Wong",
+        "Pratik Mulchandani",
+        "Nischal Suresha",
+        "Igor Podkhodov",
+        "Suramya Mukesh"
+      ]
+    },
+    "Loop": {
+      "channel_id": "C09PQGUD4LE",
+      "channel_name": "candidatelabs-loop-engineers",
+      "accepted_candidates": []
+    },
+    "Mem0": {
+      "channel_id": "C09BFBJV801",
+      "channel_name": "candidatelabs-mem0-engineers",
+      "accepted_candidates": [
+        "Narayanan Krishnan",
+        "Hengruo Zhang"
+      ]
+    },
+    "Mesa": {
+      "channel_id": "C09MSTU4DSL",
+      "channel_name": "candidatelabs-mesa-engineers",
+      "accepted_candidates": []
+    },
+    "Modus Audit": {
+      "channel_id": "C09TQSQ2TRT",
+      "channel_name": "candidatelabs-modus-audit-engineers",
+      "accepted_candidates": [
+        "Bryce Klinker",
+        "Ryan De Lopez"
+      ]
+    },
+    "Mutiny": {
+      "channel_id": "C0A2SS4Q6BG",
+      "channel_name": "candidatelabs-mutiny-engineers",
+      "accepted_candidates": [
+        "Hrishikesh Kamath"
+      ]
+    },
+    "Netic": {
+      "channel_id": "C08BBGPQJ3G",
+      "channel_name": "candidatelabs-netic-engineers",
+      "accepted_candidates": [
+        "Brian Cho",
+        "Akansha Vashisth",
+        "Sourabh Mane",
+        "Yi Duan",
+        "Minkai Li",
+        "Lan Jiang",
+        "Neel Sardana",
+        "Emma Hartley",
+        "Tin Chi Lo"
+      ]
+    },
+    "Nova Intelligence": {
+      "channel_id": "C08RHGVU6LW",
+      "channel_name": "candidatelabs-nova-software-engineers",
+      "accepted_candidates": [
+        "Antoine Zouein"
+      ]
+    },
+    "Owner": {
+      "channel_id": "C0AT5ETUPJA",
+      "channel_name": "candidatelabs-owner-eng",
+      "accepted_candidates": [
+        "Elizabeth Schafle",
+        "Ryan Dao",
+        "Aubrey Knudson",
+        "Laith Hasanian",
+        "Tapan Shah",
+        "Crystal Lemire",
+        "Hannah Nguyen",
+        "Nirali Supe",
+        "Alex Fish",
+        "Kelsey Lam",
+        "Rick (Li-Chen) Liu",
+        "Sunghyuk Park",
+        "Steven Harlow",
+        "Aniruddha Murali",
+        "Matt Upham",
+        "Achintya Sakthi Sankarraman",
+        "Anh-Thu Huynh",
+        "DiAndre Ruiz",
+        "Jonathan Rosado",
+        "Paul Nunez",
+        "Ammar Siddiqui"
+      ]
+    },
+    "Raindrop": {
+      "channel_id": "C0ACMUQ1R38",
+      "channel_name": "candidatelabs-raindrop-engineers",
+      "accepted_candidates": [
+        "Win Aung",
+        "Manjiri Tapaswi",
+        "Abhay Venkatesh",
+        "Besir Kurtulmus",
+        "Miran Park",
+        "Akhil Pandey",
+        "Aditya Rao",
+        "Neha Konakalla",
+        "Lan Jiang",
+        "Gadi Cohen"
+      ]
+    },
+    "Reducto": {
+      "channel_id": "C09MQFLPYSH",
+      "channel_name": "candidatelabs-reducto-engineers",
+      "accepted_candidates": [
+        "Hengruo Zhang",
+        "Sofie Yang",
+        "Parker Jou",
+        "Mory Elsaify",
+        "Ryan Prinster",
+        "Anshuman Mishra",
+        "Allen Guan",
+        "Jing Gu",
+        "Julian Allchin",
+        "Anthony Tao",
+        "Yuke Zhao",
+        "Akash Vemulapalli",
+        "Mykhailo Ivaniuk",
+        "Simral Chaudhary",
+        "Brian Ton",
+        "Kedar Rudrawar"
+      ]
+    },
+    "Rilix": {
+      "channel_id": "C09P96JH7C3",
+      "channel_name": "candidatelabs-rilix-engineers",
+      "accepted_candidates": [
+        "Hajir Roozbehani"
+      ]
+    },
+    "Rillet": {
+      "channel_id": "C093ZCL3VKQ",
+      "channel_name": "candidatelabs-rillet-engineers",
+      "accepted_candidates": [
+        "Kevin Xiao",
+        "Ramneek Bains",
+        "Eric Wang",
+        "Riccardo Bellingeri",
+        "Sanjiv Prabhunandan",
+        "Anurag Angara",
+        "Elena Felder",
+        "Julia Yan",
+        "Aditya Rao",
+        "Adithya Gurunathan",
+        "Gaurav Agarwal",
+        "Aditya Majumdar",
+        "Jonathan Yu",
+        "Anton Lakin",
+        "Nicolas Venegas Parker",
+        "Brian Radlick",
+        "David Ding"
+      ]
+    },
+    "Runlayer": {
+      "channel_id": "C0AFUJ03J5N",
+      "channel_name": "candidatelabs-runlayer-engineers",
+      "accepted_candidates": [
+        "Hiren Hiranandani",
+        "Bryan Bor",
+        "Anh-Thu Huynh",
+        "Rodney Shibu",
+        "Matt Selby"
+      ]
+    },
+    "Sable": {
+      "channel_id": "C09UY7YNZMW",
+      "channel_name": "candidatelabs-sable-engineers",
+      "accepted_candidates": []
+    },
+    "Salient": {
+      "channel_id": "C08D1A9SU3A",
+      "channel_name": "candidatelabs-salient-engineers",
+      "accepted_candidates": [
+        "Anirvin Vaddiyar",
+        "Ryan Stout",
+        "Ryan Prinster",
+        "Neha Konakalla",
+        "Krishna Dusad",
+        "Sanket Shah"
+      ]
+    },
+    "Sandstone": {
+      "channel_id": "C0953RVF1FT",
+      "channel_name": "candidatelabs-sandstone-greyball-engineers",
+      "accepted_candidates": [
+        "Amir Hamza",
+        "Baobao Tang",
+        "Adam Achebe",
+        "Hannah Kyme"
+      ]
+    },
+    "Sequence Holdings": {
+      "channel_id": "C09R6M7MWSY",
+      "channel_name": "candidatelabs-sequence-holdings-engineers",
+      "accepted_candidates": [
+        "Bryce Klinker"
+      ]
+    },
+    "Serval": {
+      "channel_id": "C09B2ENK4UQ",
+      "channel_name": "candidatelabs-serval-engineers",
+      "accepted_candidates": [
+        "Tanay Gondil",
+        "Sourabh Mane",
+        "Aniruddha Murali",
+        "Yi Duan",
+        "Neha Konakalla",
+        "Allen Guan",
+        "Anthony Tao",
+        "Taj Shaik",
+        "Hannah Kyme"
+      ]
+    },
+    "Sola": {
+      "channel_id": "C0AA4GCKW2W",
+      "channel_name": "candidatelabs-sola-engineers",
+      "accepted_candidates": [
+        "Adithya Gurunathan",
+        "Yifei Huang",
+        "Baobao Tang",
+        "Hajir Roozbehani",
+        "Anton Lakin"
+      ]
+    },
+    "Stuut": {
+      "channel_id": "C0AA7JD8Z26",
+      "channel_name": "candidatelabs-stuut-engineers",
+      "accepted_candidates": [
+        "Riccardo Bellingeri",
+        "Bhaulik Patel",
+        "Manjiri Tapaswi",
+        "Damon Hastings",
+        "Artur Kuzmin",
+        "Ammar Siddiqui",
+        "Brian Cho",
+        "Akansha Vashisth",
+        "Yifei Huang",
+        "Isaac Granillo",
+        "Siva Ramakrishna Paladi",
+        "Baobao Tang",
+        "Akhil Pandey",
+        "Gaurav Agarwal",
+        "Neha Konakalla",
+        "Hajir Roozbehani",
+        "Neil Sachdeva",
+        "Syed Mustafa",
+        "Taj Shaik",
+        "Shubham Mishra",
+        "Spurthi Tallam",
+        "Anh-Thu Huynh",
+        "Sai Krishna Rohith",
+        "Hannah Kyme"
+      ]
+    },
+    "Substrate": {
+      "channel_id": "C09TFP9FXNH",
+      "channel_name": "candidatelabs-substrate-engineers",
+      "accepted_candidates": []
+    },
+    "Swoop": {
+      "channel_id": "C09QZH3TUTY",
+      "channel_name": "candidatelabs-swoop-engineers",
+      "accepted_candidates": []
+    },
+    "Trajectory": {
+      "channel_id": "C0A8VAEQJDV",
+      "channel_name": "candidatelabs-trajectory-engineers",
+      "accepted_candidates": [
+        "Win Aung",
+        "Kenar Vyas",
+        "Carl Liu",
+        "Sourabh Mane",
+        "Mory Elsaify",
+        "Maria Izzi",
+        "Peter Darche",
+        "Benson Chen",
+        "Vishu Agarwal",
+        "Eddie Tu",
+        "Maanas Baraya",
+        "Jing Gu",
+        "Ani Chari",
+        "Jing Li",
+        "Iris Qu",
+        "Ishan Kaul",
+        "Zhihao Zhu"
+      ]
+    },
+    "Upstart": {
+      "channel_id": "C09S1EBSP7V",
+      "channel_name": "candidatelabs-upstart-engineers",
+      "accepted_candidates": [
+        "Tina Roh"
+      ]
+    },
+    "Vector (Vultron)": {
+      "channel_id": "C08RMHBUDGB",
+      "channel_name": "candidatelabs-vultron-vector-engineers",
+      "accepted_candidates": [
+        "Neha Konakalla"
+      ]
+    },
+    "Vercel": {
+      "channel_id": "C081YTEH1LN",
+      "channel_name": "candidatelabs-vercel-engineers",
+      "accepted_candidates": [
+        "Gang Zhao",
+        "Ruiqing (Raymond) Qiu",
+        "Yue Teng",
+        "Achintya Sakthi Sankarraman",
+        "Harris Lynch",
+        "Bryan Qiu",
+        "Anand Nanduri"
+      ]
+    },
+    "Vitalize Care": {
+      "channel_id": "C085CB2GS3G",
+      "channel_name": "candidatelabs-vitalize-care-engineers",
+      "accepted_candidates": [
+        "Cameron Kidman",
+        "Ted Henkels",
+        "Damon Hastings",
+        "Alyssa Whitwell",
+        "Isaac Granillo",
+        "Aniruddha Murali",
+        "Abrar Rahman",
+        "Neha Konakalla",
+        "Dalvin Josias",
+        "Shalini Pyapali",
+        "Shubham Mishra",
+        "Isabella Felaco",
+        "Nuo Wen Lei"
+      ]
+    },
+    "Voltai": {
+      "channel_id": "C08LSBYUCHZ",
+      "channel_name": "candidatelabs-voltai-engineers",
+      "accepted_candidates": []
+    },
+    "Wispr": {
+      "channel_id": "C081S3KHSBV",
+      "channel_name": "candidatelabs-wispr-flow-engineers",
+      "accepted_candidates": [
+        "Hengruo Zhang",
+        "Elaheh Ahmadi",
+        "Mathusan Selvarajah",
+        "Parker Jou",
+        "Manjiri Tapaswi",
+        "Raimo Tuisku",
+        "Pratik Mulchandani",
+        "Andy Guo",
+        "Anshuman Mishra",
+        "Akhil Pandey",
+        "Shreya Singh",
+        "Mohammad Rafiee",
+        "Suramya Mukesh"
+      ]
+    }
+  }
+}
